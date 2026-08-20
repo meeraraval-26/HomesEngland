@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="master development"
+    id="id-919b9cc2129149189e1c503fc3c4b248"
+    documentation="text to  be completed by Ollie&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="place development "/>
+</archimate:Capability>

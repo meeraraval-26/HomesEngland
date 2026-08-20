@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ceo office"
+    id="id-0f3bad92f52340fb8254cdfdca250afe"
+    documentation="text to  be completed by Ollie&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR"
+    id="id-a9de953703f343678ea7f2757e2b6f04"
+    documentation="text to  be completed by Ollie&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

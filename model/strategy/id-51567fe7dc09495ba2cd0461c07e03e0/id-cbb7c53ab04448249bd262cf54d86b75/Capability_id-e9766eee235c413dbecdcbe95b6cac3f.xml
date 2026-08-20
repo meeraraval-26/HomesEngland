@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="finance"
+    id="id-e9766eee235c413dbecdcbe95b6cac3f"
+    documentation="text to  be completed by Ollie&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

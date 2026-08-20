@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="risk management"
+    id="id-a1be585230ae4222862c8b1a61cc0704"
+    documentation="text to  be completed by Ollie&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

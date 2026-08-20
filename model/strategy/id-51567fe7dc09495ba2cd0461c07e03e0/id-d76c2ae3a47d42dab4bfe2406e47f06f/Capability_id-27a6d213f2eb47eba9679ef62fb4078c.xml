@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="customer services &amp; products"
+    id="id-27a6d213f2eb47eba9679ef62fb4078c"
+    documentation="This capability focuses on the development, delivery and management of products and services to enhance customer satisfaction and engagement">
+  <properties
+      key="level"
+      value="1"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"/>
+</archimate:Capability>

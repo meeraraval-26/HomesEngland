@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="corporate support "
+    id="id-2e6d90535edb45f0903c17f2b829420d"
+    documentation="This capability encompasses the essential functions that provide administrative, financial and operational assistance to enhance the efficiency and effectiveness of the organisation">
+  <properties
+      key="level"
+      value="1"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"/>
+</archimate:Capability>

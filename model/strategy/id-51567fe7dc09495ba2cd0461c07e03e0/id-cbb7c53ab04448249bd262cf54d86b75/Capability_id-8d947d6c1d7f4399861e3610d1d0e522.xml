@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="external communications "
+    id="id-8d947d6c1d7f4399861e3610d1d0e522"
+    documentation="full name is External Communications and Marketing">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corporate strategy"/>
+</archimate:Capability>

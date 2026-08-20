@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vision &amp; strategy"
+    id="id-a3f7a716822845c28f8cd73e0051d934"
+    documentation="full name is Vision/ Strategy &amp; Objective Setting&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corporate strategy"/>
+</archimate:Capability>

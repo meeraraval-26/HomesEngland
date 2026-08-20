@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="change management"
+    id="id-c4a7d255d494444f9e12b9733da49ebc"
+    documentation="text to be completed by Ollie">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="portfolio and change"/>
+</archimate:Capability>

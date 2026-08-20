@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="vision &amp; strategy"
-    id="id-e241b68864e647bdbe75789bd6db7fbc"
-    documentation="full name is Vision/ Strategy &amp; Objective Setting&#xA;">
+    name="investment portfolio"
+    id="id-0cb4b692ba0840dc91932b51a22a7f73"
+    documentation="text to  be completed by Ollie&#xA;">
   <properties
       key="level"
       value="2"/>
@@ -11,5 +11,5 @@
       value="business"/>
   <properties
       key="parent"
-      value="corporate strategy"/>
+      value="investment management"/>
 </archimate:Capability>

@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="corporate strategy"
+    id="id-325c0146a45b4c0ead1b9694b2e7b6a6"
+    documentation="This capability focuses on defining the long-term vision and direction of the organisation through the development and implementation of strategic plans that align resources and initiatives with business objectives">
+  <properties
+      key="level"
+      value="1"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"/>
+</archimate:Capability>

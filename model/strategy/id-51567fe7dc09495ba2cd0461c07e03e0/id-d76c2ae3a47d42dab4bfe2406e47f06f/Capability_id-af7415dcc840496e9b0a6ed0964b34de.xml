@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="place development "
+    id="id-af7415dcc840496e9b0a6ed0964b34de"
+    documentation="This capability involves the strategic planning and implementation of initiatives aimed at enhancing infrastructure">
+  <properties
+      key="level"
+      value="1"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"/>
+</archimate:Capability>

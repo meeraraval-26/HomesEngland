@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="strategic prioritisation "
+    id="id-b63f1e617aff4216a119184378cd489a"
+    documentation="full name is Strategic Prioritisation and triage &#xA;text to  be completed by Ollie&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="delivery strategy"/>
+</archimate:Capability>
