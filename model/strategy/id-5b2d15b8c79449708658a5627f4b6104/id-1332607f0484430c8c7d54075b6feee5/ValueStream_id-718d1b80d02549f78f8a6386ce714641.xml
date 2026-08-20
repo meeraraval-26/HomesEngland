@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Well architected pillars"
+    id="id-718d1b80d02549f78f8a6386ce714641"
+    documentation="Architecture should conform to the 6 pillars of the AWS well architected framework: &#xA;&#x9;operational excellence, &#xA;&#x9;security, &#xA;&#x9;reliability, &#xA;&#x9;performance efficiency, &#xA;&#x9;cost optimization and &#xA;&#x9;sustainability.&#xA;"/>

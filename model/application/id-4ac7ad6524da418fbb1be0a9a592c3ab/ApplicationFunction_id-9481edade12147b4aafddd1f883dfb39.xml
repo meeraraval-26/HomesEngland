@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ingestion"
+    id="id-9481edade12147b4aafddd1f883dfb39"
+    documentation="ingest data from source to databricks"/>

@@ -1,0 +1,13 @@
+<archimate:Stakeholder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder"
+    id="id-a1afc73a080a42a48ca7a78830a23b94">
+  <properties
+      key="name"/>
+  <properties
+      key="email"/>
+  <properties
+      key="phone"/>
+  <properties
+      key="role"/>
+</archimate:Stakeholder>

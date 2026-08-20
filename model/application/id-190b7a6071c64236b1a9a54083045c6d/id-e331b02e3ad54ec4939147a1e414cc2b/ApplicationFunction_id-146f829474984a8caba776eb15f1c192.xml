@@ -1,0 +1,22 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="function app"
+    id="id-146f829474984a8caba776eb15f1c192"
+    documentation="models an azure function app&#xA;https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview&#xA;&#xA;The assumption is that dockerising function apps needs to be justified and that &#xA;the service plan should also be explained&#xA;also the assumption is that Insights is always selected - if not that shoudl be detailed here&#xA;all other settings are in the properties tab">
+  <properties
+      key="resource group"/>
+  <properties
+      key="trigger type"
+      value="timed/HTTP etc"/>
+  <properties
+      key="runtime stack"
+      value=".NET/node.js/python/java/powershell/custom"/>
+  <properties
+      key="storage account"/>
+  <properties
+      key="injection enables"
+      value="Y/N"/>
+  <properties
+      key="OS"
+      value="linux/windows"/>
+</archimate:ApplicationFunction>

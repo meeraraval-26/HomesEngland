@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCSC"
+    id="id-56c9e2a86e4b4e5b8b1d3e51d9076bd6"
+    documentation="https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles&#xA;&#xA;Summary and context for the 14 Cloud Security Principles, including their goals and technical implementation.&#xA;The cloud security principles are designed to help you choose a cloud provider that meets your security needs. You will separately need to consider how you configure your cloud services securely.&#xA;&#xA;These principles apply to both cloud platforms and to Software-as-a-Service.&#xA;&#xA;For each of the principles, we describe:&#xA;&#xA;&#x9;1. the security goals that a good cloud service should meet&#xA;&#x9;2. differentiators you should look out for that either give you more confidence in the cloud service, or make it easier for you to meet your own security responsibilities&#xA;&#x9;3. some suggestions for how the cloud provider could have met the goals&#xA;&#x9;4. any related considerations you will need to make when determining whether the service meets your needs"/>

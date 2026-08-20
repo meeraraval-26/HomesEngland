@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="12. Secure service administration"
+    id="id-3bfc287cb57d4ff180f109134ce2f04a"
+    documentation="The design, implementation, and management of the cloud service provider’s administration systems should &#xA;follow enterprise good practice, recognising their high value to attackers.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-12-secure-service-administration"/>

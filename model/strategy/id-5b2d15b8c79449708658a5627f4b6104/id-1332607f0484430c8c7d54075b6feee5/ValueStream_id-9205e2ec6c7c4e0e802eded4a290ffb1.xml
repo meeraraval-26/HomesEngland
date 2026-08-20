@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modularity and loose coupling"
+    id="id-9205e2ec6c7c4e0e802eded4a290ffb1"
+    documentation="Dependencies between solution components should be minimized though the use of loosely coupled, modular components developed, tested, and maintained independently. &#xA;This promotes scalability, reusability, flexibility, and minimizes maintenance overheads.&#xA;"/>

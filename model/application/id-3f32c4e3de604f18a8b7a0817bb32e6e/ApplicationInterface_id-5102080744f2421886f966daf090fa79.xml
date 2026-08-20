@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="integration"
+    id="id-5102080744f2421886f966daf090fa79"
+    documentation="one of the 3 standards driven integration models&#xA;provides the integration capabilties of the product&#xA;and may also combine with other integrations to create an enterprise data layer"/>

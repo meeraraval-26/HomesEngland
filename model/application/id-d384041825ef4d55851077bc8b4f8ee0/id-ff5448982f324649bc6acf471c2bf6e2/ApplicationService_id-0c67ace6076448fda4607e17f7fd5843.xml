@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="service bus"
+    id="id-0c67ace6076448fda4607e17f7fd5843"
+    documentation="this is one of the foundational elements of the &quot;integration platform&quot;&#xA;alredy in use in HE">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+</archimate:ApplicationService>

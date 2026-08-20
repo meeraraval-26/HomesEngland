@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5. Operational security"
+    id="id-73c0a7db697d4d97b82af14afd266597"
+    documentation="The service needs to be operated and managed securely in order to impede, detect or prevent attacks.&#xA;It will achieve this through a combination of effective vulnerability management, protective monitoring, &#xA;configuration &amp; change management, and incident management.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-5-operational-security"/>

@@ -1,0 +1,6 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Views"
+    id="id-ba0b4dbc8654474993ce0eeb3bcdb2a3"
+    documentation="This folder is structured via  mandatory stages within the architecture lifecycle. &#xA;Additional views should be placed in the provided folder.&#xA;Where views have been superceded they can be placed in the deprecated section for future reference."
+    type="diagrams"/>

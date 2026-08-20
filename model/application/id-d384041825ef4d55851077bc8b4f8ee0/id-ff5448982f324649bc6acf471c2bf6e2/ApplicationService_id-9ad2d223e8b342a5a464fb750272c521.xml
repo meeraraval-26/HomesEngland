@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="databricks"
+    id="id-9ad2d223e8b342a5a464fb750272c521"
+    documentation="https://learn.microsoft.com/en-us/azure/databricks/introduction/&#xA;&#xA;already in use in HE&#xA;used as the data engineering environment&#xA;">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+</archimate:ApplicationService>

@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="datafactory"
+    id="id-e49fe3be4d5144858ff9bd6b3cc902a6"
+    documentation="https://learn.microsoft.com/en-us/azure/databricks/introduction/&#xA;&#xA;already in use in HE&#xA;used here as an orchestration engine for getting data into databricks&#xA;">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+</archimate:ApplicationService>

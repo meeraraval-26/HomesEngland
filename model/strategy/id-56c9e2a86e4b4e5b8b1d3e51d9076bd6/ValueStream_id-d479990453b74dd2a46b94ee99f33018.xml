@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7. Secure development"
+    id="id-d479990453b74dd2a46b94ee99f33018"
+    documentation="Cloud services should be designed, developed and deployed in a way that minimises and mitigates threats to their security. &#xA;This will include a robust software development lifecycle that uses an automated and audited integration and deployment pipeline.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-7-secure-development"/>

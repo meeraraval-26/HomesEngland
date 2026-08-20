@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="portability &amp; lock in"
+    id="id-a22e4c1827064413815e71956257ed4b"
+    documentation="Design for Portability, Avoid Lock-In&#xA;The structure of our architecture will protect the Agency from supplier lock-in, and will actively enable commercial permeability/portability - maximising our buying power and competitive advantage. We will be vendor agnostic aligning with best-fit, standards-compliant technologies."/>

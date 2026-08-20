@@ -1,0 +1,14 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Capability"
+    id="id-d7f5b4d058a24511ae2d6c2f94d9728f"
+    documentation="this models the capability&#xA;there's a presumption that it doesnt go much beyond 6 levels&#xA;lower than that and we should be looking at business architecture">
+  <properties
+      key="level"
+      value="1 - 6"/>
+  <properties
+      key="type"
+      value="foundational, capability group, business n"/>
+  <properties
+      key="parent"/>
+</archimate:Capability>

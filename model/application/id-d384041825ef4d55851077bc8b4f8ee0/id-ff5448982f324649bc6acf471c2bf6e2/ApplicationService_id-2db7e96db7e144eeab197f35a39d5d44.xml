@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="function app"
+    id="id-2db7e96db7e144eeab197f35a39d5d44"
+    documentation="https://learn.microsoft.com/en-us/azure/databricks/introduction/&#xA;&#xA;triggered by an HTTP even from APIM&#xA;reads data from its source repo(s)&#xA;likely to have to fetch a connection string/auth from keyvault&#xA;builds a payload utilizing data and metadata standard&#xA;&#xA;function apps are preferred here to logic apps as the main purpose is execution rather than orchestration&#xA;they could be deplyed in containers, but there would need to be a specific gain&#xA;(the APIs are developed using non-Azure friendly libraries for instance)&#xA;">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+</archimate:ApplicationService>

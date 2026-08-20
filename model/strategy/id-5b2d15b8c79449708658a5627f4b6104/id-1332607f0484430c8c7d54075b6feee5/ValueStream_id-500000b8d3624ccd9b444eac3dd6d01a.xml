@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Avoid anti-patterns"
+    id="id-500000b8d3624ccd9b444eac3dd6d01a"
+    documentation="Architecture must avoid the use of anti-patterns, in particular: overuse of a single component or technology, vendor lock-in, monolithic design and lack of component re-use.&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Completeness"
+    id="id-0cc098edaf024346a0d6ee844095074a"
+    documentation="The completeness data quality dimension is defined as the percentage of data populated vs. the possibility of 100% fulfillment."/>

@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10. Identity and authentication"
+    id="id-f582a26e60f148679b38cac6f29ef56b"
+    documentation="All access to service interfaces should be constrained to a securely authenticated and authorised identity, which may belong to either a human user or a machine. &#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-10-identity-and-authentication"/>

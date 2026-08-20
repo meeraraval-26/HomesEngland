@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="application"
+    id="id-065f2f3ab3224b78b757e4016f118d24"
+    documentation="typically a LoB application that is at the core of teh product &quot;wrapper&quot;"/>

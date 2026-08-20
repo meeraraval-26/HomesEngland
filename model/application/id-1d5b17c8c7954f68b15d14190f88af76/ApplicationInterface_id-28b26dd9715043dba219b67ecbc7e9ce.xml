@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API"
+    id="id-28b26dd9715043dba219b67ecbc7e9ce"
+    documentation="a logical API for use in integration strategy pattern"/>

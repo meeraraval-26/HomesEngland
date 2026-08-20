@@ -1,0 +1,13 @@
+<archimate:AssignmentRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="product components"
+    id="id-673d84eeb1504fd4b0d7184fca5f6192"
+    documentation="all components are assigned to a service&#xA;they may (logically at least) be assigned to more than one service">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-54489e75034d4bba9909b6dde956e335.xml#id-54489e75034d4bba9909b6dde956e335"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-de0dbe1285a54ed0899ca8ef506cb7eb.xml#id-de0dbe1285a54ed0899ca8ef506cb7eb"/>
+</archimate:AssignmentRelationship>

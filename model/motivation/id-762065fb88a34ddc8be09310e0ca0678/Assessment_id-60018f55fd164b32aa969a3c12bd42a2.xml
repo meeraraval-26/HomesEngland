@@ -1,0 +1,16 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="risk"
+    id="id-60018f55fd164b32aa969a3c12bd42a2">
+  <properties
+      key="RAG status"
+      value="red/amber/green"/>
+  <properties
+      key="impact"
+      value="high/medium/low"/>
+  <properties
+      key="likelihood"
+      value="high/medium/low"/>
+  <properties
+      key="owner"/>
+</archimate:Assessment>

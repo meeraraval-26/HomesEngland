@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="azure application insights SDK"
+    id="id-b580241d256d4b538cbfa9294232b120"
+    documentation="explicitly included as part of the build for any inew integratin components built from scratch&#xA;so APIs and functin apps are the obvious candidates"/>

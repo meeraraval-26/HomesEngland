@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SLAs"
+    id="id-2e9942932ba2484fa6dc3eee1e029a08"
+    documentation="this folder should contain one named SLA for each service in either of the three layers"/>

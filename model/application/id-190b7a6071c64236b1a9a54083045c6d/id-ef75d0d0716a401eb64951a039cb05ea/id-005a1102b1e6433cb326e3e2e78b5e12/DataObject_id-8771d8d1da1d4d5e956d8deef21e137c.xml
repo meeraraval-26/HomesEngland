@@ -1,0 +1,17 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data item"
+    id="id-8771d8d1da1d4d5e956d8deef21e137c"
+    documentation="teh individual items which make up the product's payload">
+  <properties
+      key="type"
+      value="varchar/number etc"/>
+  <properties
+      key="length"/>
+  <properties
+      key="nullable"
+      value="yes/no"/>
+  <properties
+      key="mandatory"
+      value="yes/no"/>
+</archimate:DataObject>

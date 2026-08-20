@@ -1,0 +1,11 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="domain name"
+    id="id-0ee630c47964468e80af32bd93800cdf">
+  <properties
+      key="core domain"
+      value="name of parent, blank if core"/>
+  <properties
+      key="orgnisation"
+      value="owner of the domain"/>
+</archimate:BusinessCollaboration>

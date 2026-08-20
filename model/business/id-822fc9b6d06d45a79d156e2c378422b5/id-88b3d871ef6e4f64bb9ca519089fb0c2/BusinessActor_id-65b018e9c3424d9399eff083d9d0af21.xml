@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="service owner "
+    id="id-65b018e9c3424d9399eff083d9d0af21"
+    documentation="Responsible to the service consumers for the initiation, transition and ongoing maintenance and support&#xA;of a particular service.&#xA;Must ensure that service levels can be monitored, measured and maintain relevance.&#xA;Has accountability for the service to the enterprise and is tasked with identifying opportunities for &#xA;improvements and for detecting changes in requirements."/>

@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="8. Supply chain security"
+    id="id-bcaad348d7644d878ca98f9b6f3d149e"
+    documentation="The service provider should ensure that its supply chain meets the same security standards that the organisation sets for itself. &#xA;This includes where a third party has access to customer data or the service, and where the provider has dependencies on a &#xA;third party such as when procuring hardware and software.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-8-supply-chain-security"/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="services"
+    id="id-863dd89b0e9b4b6991b6491cdf9fc8fe"
+    documentation="A technology service is:&#xA;&#x9;a logical representation of a repeatable activity that has a specified outcome&#xA;&#x9;is self contained&#xA;&#x9;disguises physical implementation&#xA;&#x9;has a published consumer SLA that includes response time, availability and resilience&#xA;&#x9;may be composed of other services&#xA;&#x9;is a black box to its customers"/>

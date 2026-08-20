@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="product owner"
+    id="id-cff5228524f44302882246b551ac7518"
+    documentation="Guardian of the product vision and goal. &#xA;All work is derived and prioritized based on the Product Goal in order to deliver value to all stakeholders &#xA;&#xA;accountable for:&#xA;&#x9;maximizing the value of the product &#xA; &#x9;effective Product Backlog management:&#xA;&#x9;developing and explicitly communicating the Product Goal&#xA;&#x9;creating and clearly communicating Product Backlog Items&#xA;&#x9;ordering Product Backlog Items&#xA;&#x9;ensuring that the Product Backlog is transparent, visible and understood"/>

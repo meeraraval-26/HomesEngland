@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="13. Audit information and alerting for customers"
+    id="id-c133492fe53f4a83b7f42a9871605dca"
+    documentation="You should be able to identify security incidents and should have the information necessary to find out how and when they occurred. &#xA;The service will need to provide you with audit information, and issue security alerts when attempted attacks are detected.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-13-audit-information-and-alerting-for-customers"/>

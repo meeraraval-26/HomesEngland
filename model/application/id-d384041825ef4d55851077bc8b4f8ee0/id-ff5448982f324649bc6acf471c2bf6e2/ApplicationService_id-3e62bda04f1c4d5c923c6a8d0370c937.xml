@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="monitor"
+    id="id-3e62bda04f1c4d5c923c6a8d0370c937"
+    documentation="https://learn.microsoft.com/en-us/azure/azure-monitor/fundamentals/overview&#xA;&#xA;The basic pattern for integration observability is a combination between monitor ansd application insisghts&#xA;coded into any new API/functionApps code&#xA;data platform will atively report back into monitor"/>

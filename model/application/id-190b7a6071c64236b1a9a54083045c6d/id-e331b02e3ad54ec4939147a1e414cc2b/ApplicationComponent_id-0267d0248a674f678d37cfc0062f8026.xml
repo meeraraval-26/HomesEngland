@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="container app"
+    id="id-0267d0248a674f678d37cfc0062f8026"
+    documentation="models an Azure container app&#xA;https://learn.microsoft.com/en-us/azure/container-apps/overview&#xA;&#xA;assumption is that the region will always be in the UK&#xA;zone redundancy should be disabled&#xA;use your own network should be enables">
+  <properties
+      key="resource group"/>
+  <properties
+      key="environment"/>
+  <properties
+      key="image"/>
+  <properties
+      key="virtual network"/>
+</archimate:ApplicationComponent>

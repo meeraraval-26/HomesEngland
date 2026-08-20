@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data product"
+    id="id-ef75d0d0716a401eb64951a039cb05ea"
+    documentation="is the building block for a mesh approach&#xA;products have a front page SLA, an interface, and a data definition&#xA;these are modelled as a service, and integration and a dataset"/>

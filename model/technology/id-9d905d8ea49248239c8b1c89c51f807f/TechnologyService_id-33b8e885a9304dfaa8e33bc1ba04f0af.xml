@@ -1,0 +1,31 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="azure container"
+    id="id-33b8e885a9304dfaa8e33bc1ba04f0af"
+    documentation="env variables &amp; ports will need to be configured outside the model">
+  <properties
+      key="resource group"/>
+  <properties
+      key="region"/>
+  <properties
+      key="AZs"/>
+  <properties
+      key="SKU"
+      value="standard/confidential"/>
+  <properties
+      key="image source"
+      value="quickstart.azure container registry/other registry"/>
+  <properties
+      key="size"/>
+  <properties
+      key="type"
+      value="public/private/none"/>
+  <properties
+      key="DNS label"/>
+  <properties
+      key="restart"
+      value="on failure/always/never"/>
+  <properties
+      key="key"
+      value="microsoft/customer"/>
+</archimate:TechnologyService>

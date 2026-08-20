@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="services"
+    id="id-cd4950fc527f4b55a3305fd808cdb487"
+    documentation="A business service is:&#xA;&#x9;a logical representation of a repeatable activity that has a specified outcome&#xA;&#x9;is self contained&#xA;&#x9;has a published customer SLA&#xA;&#x9;may be composed of other services&#xA;&#x9;is a black box to its customers"/>

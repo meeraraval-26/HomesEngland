@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="elsa workflows.io"
+    id="id-41716d7d2d75415cadb1b295d1acd45d"
+    documentation="https://www.elsaworkflows.io/&#xA;&#xA;the tactical pipeline&#xA;has been very heavily modified&#xA;is run by a team of developes&#xA;is a Docker image in the enterprise AKS cluster&#xA;&#xA;contact Rob Ryan"/>

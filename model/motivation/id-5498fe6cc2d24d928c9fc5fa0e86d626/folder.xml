@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADRs"
+    id="id-5498fe6cc2d24d928c9fc5fa0e86d626"
+    documentation="holds the architecture decision records&#xA;based on Michael Nygard's template:&#xA;&#x9;https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/templates/decision-record-template-by-michael-nygard/index.md&#xA;&#xA;modelled as a principle (defined by archimate as a &quot;statement of intent&quot;)"/>

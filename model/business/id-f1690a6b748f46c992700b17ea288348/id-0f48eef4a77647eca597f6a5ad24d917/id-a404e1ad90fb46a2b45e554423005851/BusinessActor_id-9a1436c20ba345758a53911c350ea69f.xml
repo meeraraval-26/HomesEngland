@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data custodian"
+    id="id-9a1436c20ba345758a53911c350ea69f"
+    documentation="responsible for &#xA;&#x9;the technical implementation, maintenance, and safekeeping of data.&#xA;&#x9;how data is stored, transported, and protected based on rules set by the business&#xA;&#x9;the technical infrastructure to enforce data policies and keep data safe&#xA;&#xA;Key Responsibilities of a Data Custodian:&#xA;1. implementing access controls (such as role-based access) to ensure only authorized users can view or modify the data.&#xA;2. Enforcing encryption protocols for data both at rest and in transit.&#xA;3. ensuring the structural health of the databases, servers, or cloud environments where data lives.&#xA;4. Monitoring data pipelines to ensure data isn't corrupted, lost, or degraded during transmission.&#xA;5. Lifecycle Management &amp; disaster recovery"/>

@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7. attack surface"
+    id="id-e0394103674543db9ba551b57b89f2b5"
+    documentation="Minimize the attack surface -  Use only the capabilities, software, data and hardware components necessary for a service to mitigate cyber security risks.&#xA;"/>

@@ -1,0 +1,21 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="business service"
+    id="id-bb68194766874bd5b10b08e6ac37fca6"
+    documentation="A business service is:&#xA;&#x9;a logical representation of a repeatable activity that has a specified outcome&#xA;&#x9;is self contained&#xA;&#x9;has a published customer SLA&#xA;&#x9;may be composed of other services&#xA;&#x9;is a black box to its customers">
+  <properties
+      key="availability"/>
+  <properties
+      key="business critcality"
+      value="high/medium/low"/>
+  <properties
+      key="status"
+      value="legacy/to be"/>
+  <properties
+      key="target start date"/>
+  <properties
+      key="target end date"/>
+  <properties
+      key="decomms plan"
+      value="in place/TBC"/>
+</archimate:BusinessService>

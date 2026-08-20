@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JWT token"
+    id="id-536f6230400a4bcba803537226688181"
+    documentation="returned by vault as part of the oAuth2.1 authorization"/>

@@ -1,0 +1,17 @@
+<archimate:ApplicationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Event"
+    id="id-eeba347908764a758a71ab551c21de6c">
+  <properties
+      key="published to"
+      value="name of pub/sub service/app"/>
+  <properties
+      key="name"
+      value="event name"/>
+  <properties
+      key="payload"
+      value="data attached"/>
+  <properties
+      key="classsification"
+      value="marker of security classification (if required)"/>
+</archimate:ApplicationEvent>

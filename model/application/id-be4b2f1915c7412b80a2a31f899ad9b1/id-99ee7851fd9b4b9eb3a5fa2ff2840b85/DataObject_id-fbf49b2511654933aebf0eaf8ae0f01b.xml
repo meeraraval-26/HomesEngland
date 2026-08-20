@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="connection string"
+    id="id-fbf49b2511654933aebf0eaf8ae0f01b"
+    documentation="returned by the vault to allows access to data repo(s)"/>

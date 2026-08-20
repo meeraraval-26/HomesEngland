@@ -1,0 +1,19 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API manager"
+    id="id-7ece937287744789945022928f4180be"
+    documentation="https://learn.microsoft.com/en-us/azure/databricks/introduction/&#xA;&#xA;acts as a front door and handles the caching/choking/security for individual APIs&#xA;the call individual API function apps usig HTTP trigger&#xA;means the function app can be secure without having to imstitute its own security layer&#xA;">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+</archimate:ApplicationService>

@@ -1,0 +1,10 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Object"
+    id="id-7d255c8fa392416388149312fe0e3fe2">
+  <properties
+      key="classification"/>
+  <properties
+      key="representation"
+      value="csv/JSON/XML etc"/>
+</archimate:DataObject>

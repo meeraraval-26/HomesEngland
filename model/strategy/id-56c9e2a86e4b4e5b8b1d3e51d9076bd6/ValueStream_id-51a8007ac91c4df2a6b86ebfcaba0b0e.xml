@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="2. Asset protection and resilience"
+    id="id-51a8007ac91c4df2a6b86ebfcaba0b0e"
+    documentation="Your data, and the assets storing or processing it, should be protected against physical tampering, loss, damage or seizure. &#xA;Protections should include cover for the legislation that your data is subject to, as well as mitigations such as encryption, &#xA;data centre security, secure erasure and service resilience.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-2-asset-protection-and-resilience"/>

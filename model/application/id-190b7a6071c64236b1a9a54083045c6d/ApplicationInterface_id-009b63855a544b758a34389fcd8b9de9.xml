@@ -1,0 +1,18 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Interface"
+    id="id-009b63855a544b758a34389fcd8b9de9">
+  <properties
+      key="direction"
+      value="inbound/outbound"/>
+  <properties
+      key="legacy"
+      value="true/false"/>
+  <properties
+      key="data type"/>
+  <properties
+      key="channel"/>
+  <properties
+      key="trigger"
+      value="timed/on demand/internal business event"/>
+</archimate:ApplicationInterface>

@@ -1,0 +1,5 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data quality"
+    id="id-247e1f53c1294e9cbca3a5215cc37ce9"
+    documentation="data cleansing and transformation in flight can help tackle quality issues in a long term manner"/>

@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timeliness"
+    id="id-05fc8ece825343a4919b4204f9ab6aeb"
+    documentation="Timeliness refers to the time lag between the actual event time and the time the event is captured in a system, making it available for use. &#xA;&#xA;"/>

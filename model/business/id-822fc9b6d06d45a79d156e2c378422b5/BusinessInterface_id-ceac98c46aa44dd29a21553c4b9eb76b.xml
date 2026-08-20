@@ -1,0 +1,15 @@
+<archimate:BusinessInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Interface"
+    id="id-ceac98c46aa44dd29a21553c4b9eb76b"
+    documentation="models a standard business interface&#xA;this could/should map to an application interface">
+  <properties
+      key="flow"
+      value="out/in/bi directional"/>
+  <properties
+      key="trigger"
+      value="event/batch/timed"/>
+  <properties
+      key="partner"
+      value="if a specific interface this should map to an organisation"/>
+</archimate:BusinessInterface>

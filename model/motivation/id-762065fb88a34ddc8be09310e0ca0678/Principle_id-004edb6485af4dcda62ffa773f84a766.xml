@@ -1,0 +1,17 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADR"
+    id="id-004edb6485af4dcda62ffa773f84a766"
+    documentation="CONTEXT&#xA;&#xA;PROPOSAL&#xA;&#xA;">
+  <properties
+      key="status"
+      value="proposed/accepted/rejected/deprecated"/>
+  <properties
+      key="status date"/>
+  <properties
+      key="status record"
+      value="links to email, TDA mins etc"/>
+  <properties
+      key="ADR"
+      value="link to the ADR doc"/>
+</archimate:Principle>

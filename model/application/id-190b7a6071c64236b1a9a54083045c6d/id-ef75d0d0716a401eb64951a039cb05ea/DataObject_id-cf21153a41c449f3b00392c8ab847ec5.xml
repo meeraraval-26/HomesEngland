@@ -1,0 +1,16 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data product"
+    id="id-cf21153a41c449f3b00392c8ab847ec5"
+    documentation="modelled as a data item, but one that behaves a little like a service.">
+  <properties
+      key="classification"/>
+  <properties
+      key="representation"
+      value="csv/JSON/XML etc"/>
+  <properties
+      key="% availability"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+</archimate:DataObject>

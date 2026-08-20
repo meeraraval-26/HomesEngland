@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="source repo"
+    id="id-db08a91351d141a98497efb3bfd650c4"
+    documentation="a logical data source&#xA;used in the integration reference architecture views"/>

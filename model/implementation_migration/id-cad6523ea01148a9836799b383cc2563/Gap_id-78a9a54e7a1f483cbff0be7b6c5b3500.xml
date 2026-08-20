@@ -1,0 +1,14 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="risk"
+    id="id-78a9a54e7a1f483cbff0be7b6c5b3500"
+    documentation="describes an architectural risk">
+  <properties
+      key="RAG status"
+      value="a standard measure of severity"/>
+  <properties
+      key="likelihood"
+      value="expressed low/medium/high"/>
+  <properties
+      key="mitigation"/>
+</archimate:Gap>

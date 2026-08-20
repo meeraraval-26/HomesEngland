@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="business context"
+    id="id-14c9f4079716471aad6609c86fc8c8b6"
+    documentation="see Martin Fowler&#xA;https://martinfowler.com/bliki/BoundedContext.html#:~:text=So%20instead%20DDD%20divides%20up,a%20way%20of%20structuring%20MultipleCanonicalModels.&amp;text=Bounded%20Contexts%20have%20both%20unrelated,these%20using%20a%20context%20map.&#xA;"/>

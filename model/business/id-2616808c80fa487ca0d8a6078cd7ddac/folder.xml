@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="product structure"
+    id="id-2616808c80fa487ca0d8a6078cd7ddac"
+    documentation="the hierarchical framework that defines how a business solution is built, managed, and delivered to a customer (internal or external).&#xA;this maps directly onto  structure elements in the application, information, platform and support domains&#xA;&#xA;at the business layer its:&#xA;&#x9;1. a service&#xA;&#x9;2. the people who own, support and consume the service&#xA;&#xA;"/>

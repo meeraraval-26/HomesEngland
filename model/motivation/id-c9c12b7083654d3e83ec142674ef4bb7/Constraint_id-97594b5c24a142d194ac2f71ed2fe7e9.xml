@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="in flight work"
+    id="id-97594b5c24a142d194ac2f71ed2fe7e9"
+    documentation="we shouldnt interrupt in-flight projects&#xA;but this may constrain architectural approaches or activitiies"/>

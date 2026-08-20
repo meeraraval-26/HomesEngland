@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data subject area"
+    id="id-013eefad42c84af2a43d0ea6e3998c3f"
+    documentation="A data subject area is a high-level, logical grouping of data entities related to a specific business function or capability and are used to organize, govern and understand data assets.&#xA;Data subject areas group related data entities to mirror real-world business concepts to improve data management and analytics.&#xA;Subject areas may be hierarchical and contain other, smaller subject areas.&#xA; &#xA;Key Aspects of Data Subject Areas&#xA;1. Business-Focused: They represent areas of organizational interest, such as Sales, HR, or Marketing.&#xA;2. Hierarchical: A broad subject area can contain sub-areas and entities."/>

@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="domain"
+    id="id-a85df2146a9249038b11daaa64d48513"
+    documentation="the building block for a DDD model&#xA;it needs to contain:&#xA;&#x9;a single context&#xA;&#x9;a domain expert&#xA;&#x9;may contain a variety of customers or external users&#xA;&#x9;must contain a context&#xA;&#x9;can be either a core domain or nested child domains&#xA;&#x9;must be linbked to an org"/>

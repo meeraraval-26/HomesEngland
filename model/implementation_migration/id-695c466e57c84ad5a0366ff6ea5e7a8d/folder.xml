@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gaps"
+    id="id-695c466e57c84ad5a0366ff6ea5e7a8d"
+    documentation="handles knolwedge gaps either in the model or in the wider architecture&#xA;all gaps should be deprecated or deleted in the final architecture state&#xA;deprecated gaps have been mitigated&#xA;deleted gaps have been filled"/>

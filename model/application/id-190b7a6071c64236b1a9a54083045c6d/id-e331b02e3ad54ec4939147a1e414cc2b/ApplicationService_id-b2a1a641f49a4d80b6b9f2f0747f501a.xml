@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AzureSQL"
+    id="id-b2a1a641f49a4d80b6b9f2f0747f501a"
+    documentation="https://learn.microsoft.com/en-GB/azure/azure-sql/?view=azuresql-vm">
+  <properties
+      key="server"
+      value="server name"/>
+  <properties
+      key="environment"
+      value="development/production"/>
+  <properties
+      key="encryption"
+      value="server level/db level"/>
+  <properties
+      key="database key"
+      value="value"/>
+  <properties
+      key="SLA"
+      value="99.995 zone redundant/99.99 not zone redundant"/>
+</archimate:ApplicationService>

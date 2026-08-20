@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Buy before build"
+    id="id-956e48c59ebe496da814e32dbf953e98"
+    documentation="Wherever possible solutions should use commercial off the shelf (COTS) components, especially where commodity or cloud platform options are available. &#xA;Building bespoke solutions should be a last resort, undertaken only when there are no alternatives or there are some unique business requirements that cannot be kept in any other way.&#xA;"/>

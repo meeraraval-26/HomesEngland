@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5. detect &amp; respond"
+    id="id-74117dc25fb14ec691e5f0ab22d2d937"
+    documentation="Build in detect and respond security - Design for security vulnerabilities and incidents. Integrate appropriate security logging, monitoring, alerting and response capabilities. &#xA;"/>

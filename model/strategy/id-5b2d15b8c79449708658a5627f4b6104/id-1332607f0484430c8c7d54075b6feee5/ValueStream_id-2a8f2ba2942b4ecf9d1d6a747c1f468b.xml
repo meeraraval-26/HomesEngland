@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Separation of concerns"
+    id="id-2a8f2ba2942b4ecf9d1d6a747c1f468b"
+    documentation="Divide the system into distinct components that address different aspects or responsibilities. &#xA;This improves maintainability and reduces the impact of changes in one component on the whole architecture. &#xA;Abstraction layers should be designed to separate different concerns and provide clear interfaces between them.&#xA;"/>

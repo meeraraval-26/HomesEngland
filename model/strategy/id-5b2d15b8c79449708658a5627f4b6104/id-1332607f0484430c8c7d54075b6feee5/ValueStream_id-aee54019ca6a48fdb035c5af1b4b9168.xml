@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security by design"
+    id="id-aee54019ca6a48fdb035c5af1b4b9168"
+    documentation="In order to protect the architecture against unauthorised access, data breaches, and other threats, it should be designed using the CDDO security by design principles.&#xA;"/>

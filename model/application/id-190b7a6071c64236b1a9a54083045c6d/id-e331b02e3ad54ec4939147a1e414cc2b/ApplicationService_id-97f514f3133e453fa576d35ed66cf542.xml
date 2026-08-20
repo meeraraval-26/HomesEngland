@@ -1,0 +1,16 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Keyvault"
+    id="id-97f514f3133e453fa576d35ed66cf542">
+  <properties
+      key="SLA"
+      value="99.9% over 4 weeks"/>
+  <properties
+      key="region"/>
+  <properties
+      key="retention period days"
+      value="90 default"/>
+  <properties
+      key="enable purge protection"
+      value="true/false"/>
+</archimate:ApplicationService>

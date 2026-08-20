@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1: Data in transit protection"
+    id="id-8115ed4d7dff48589aa7c2270bf2cd94"
+    documentation="Your data should be adequately protected against tampering and eavesdropping as it transits networks inside and external to the cloud. &#xA;This should be achieved using a combination of encryption, service authentication and network-level protections.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-1-data-in-transit-protection"/>

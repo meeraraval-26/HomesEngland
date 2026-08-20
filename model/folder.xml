@@ -1,0 +1,23 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HE digital roadmap"
+    id="id-fa7182afc2b8466f97d962a6b61e8e9d"
+    purpose="The development of an overarching Digital strategy, underpinned by a technology strategy (including strategic architecture), &#xA;which will inform and support the creation of a subsequent business case.  &#xA;All work must be completed and invoiced prior to the end of March 2026. &#xA;The strategy will be required to review current state architecture, understand the desired end-state and &#xA;articulate via a 3-year phased approach to achieving that.&#xA;&#xA;&#xA;&#xA;"
+    version="5.0.0">
+  <properties
+      key="UX analyst"
+      value="Shikha Maheshwari"/>
+  <properties
+      key="architecture lead"
+      value="Ramsay Brand"/>
+  <properties
+      key="delivery lead"
+      value="Hemel Popat"/>
+  <properties
+      key="project manager"/>
+  <properties
+      key="business analyst"
+      value="David Hopkins"/>
+  <properties
+      key="product owner"/>
+</archimate:ArchimateModel>

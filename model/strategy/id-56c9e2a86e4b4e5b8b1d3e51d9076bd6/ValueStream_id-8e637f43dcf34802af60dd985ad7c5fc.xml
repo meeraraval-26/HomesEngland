@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. Separation between customers"
+    id="id-8e637f43dcf34802af60dd985ad7c5fc"
+    documentation="A malicious or compromised customer of the service should not be able to access or affect the service or data of another. &#xA;It will need to implement effective security boundaries in the way it runs code, stores data, and manages the network.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-4-governance-framework"/>

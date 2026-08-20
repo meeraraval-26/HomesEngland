@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="14. Secure use of the service"
+    id="id-5a503643c52246778d32bf6434722845"
+    documentation="Your cloud provider should make it easy for you to meet your data protection responsibilities. &#xA;Services should be secure by design and by default. &#xA;Wherever this is not the case, the provider should help you meet your security responsibilities.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-14-secure-use-of-the-service"/>

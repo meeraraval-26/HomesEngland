@@ -1,0 +1,7 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="customer"
+    id="id-97c7d5ff8be54b3fb0f58df5f3378301">
+  <properties
+      key="parent organisation"/>
+</archimate:BusinessActor>

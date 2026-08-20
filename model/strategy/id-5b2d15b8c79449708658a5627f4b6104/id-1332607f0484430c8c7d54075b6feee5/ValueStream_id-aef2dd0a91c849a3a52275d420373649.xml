@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business architecture is a foundation"
+    id="id-aef2dd0a91c849a3a52275d420373649"
+    documentation="All data, application and platform components must be directly relatable to the business architecture. &#xA;Those which have no relation to business events, processes or functions are redundant.&#xA;"/>

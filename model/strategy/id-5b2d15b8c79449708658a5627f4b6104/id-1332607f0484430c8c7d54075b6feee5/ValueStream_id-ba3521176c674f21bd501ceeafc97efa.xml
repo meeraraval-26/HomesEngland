@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Embed flexibility and extensibility"
+    id="id-ba3521176c674f21bd501ceeafc97efa"
+    documentation="Architecture must be capable of adapting to changing business requirements, technologies and user needs. &#xA;It must avoid rigid designs that are difficult to modify or extend.&#xA;"/>

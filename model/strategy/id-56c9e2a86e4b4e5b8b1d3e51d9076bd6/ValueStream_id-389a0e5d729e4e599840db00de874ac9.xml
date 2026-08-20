@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11. External interface protection"
+    id="id-389a0e5d729e4e599840db00de874ac9"
+    documentation="All external or less-trusted interfaces of the service should be identified and defended appropriately. &#xA;This includes external APIs, web consoles and command line interfaces.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-11-external-interface-protection"/>

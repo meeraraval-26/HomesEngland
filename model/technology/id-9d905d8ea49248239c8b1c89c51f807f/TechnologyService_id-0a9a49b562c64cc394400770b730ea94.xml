@@ -1,0 +1,34 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="azure storage account"
+    id="id-0a9a49b562c64cc394400770b730ea94">
+  <properties
+      key="resource group"/>
+  <properties
+      key="region"/>
+  <properties
+      key="performance"
+      value="standard/premium"/>
+  <properties
+      key="redundancy"/>
+  <properties
+      key="TLS"/>
+  <properties
+      key="copy operations"/>
+  <properties
+      key="enable SFTP"/>
+  <properties
+      key="access type"/>
+  <properties
+      key="routing"/>
+  <properties
+      key="blob retention"/>
+  <properties
+      key="container retention"/>
+  <properties
+      key="share retention"/>
+  <properties
+      key="encryption"/>
+  <properties
+      key="managed keys"/>
+</archimate:TechnologyService>

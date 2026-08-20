@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="9. Secure user management"
+    id="id-e93e74a2f8f04ba5ac37b6f409294317"
+    documentation="Your provider should make the tools available for you to securely manage your use of their service, &#xA;preventing unauthorised access and alteration of your resources, applications and data. &#xA;This will usually include an access model that allows you to implement role-based access controls across the service and the data held in it.&#xA;&#xA;https://www.ncsc.gov.uk/collection/cloud/the-cloud-security-principles/principle-9-secure-user-management"/>
