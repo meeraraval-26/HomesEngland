@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="performance monitoring"
     id="id-446ded1ecb85427e864d32d76963dcef"
-    documentation="text to  be completed by Ollie&#xA;">
+    documentation="This capability tracks and analyses operational outputs against strategic key performance indicators. It provides real-time data to evaluate service delivery and drive continuous improvement">
   <properties
       key="level"
       value="2"/>

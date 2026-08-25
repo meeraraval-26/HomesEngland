@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="finance"
     id="id-e9766eee235c413dbecdcbe95b6cac3f"
-    documentation="text to  be completed by Ollie&#xA;">
+    documentation="This capability manages financial planning, budgeting, accounting, reporting and cash management&#xA;">
   <properties
       key="level"
       value="2"/>
