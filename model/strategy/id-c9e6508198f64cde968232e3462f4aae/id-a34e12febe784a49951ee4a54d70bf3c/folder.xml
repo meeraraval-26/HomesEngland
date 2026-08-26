@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="acceptance criteria"
-    id="id-a34e12febe784a49951ee4a54d70bf3c"/>
+    name="outcomes"
+    id="id-a34e12febe784a49951ee4a54d70bf3c"
+    documentation="Legacy IT is a classification, not scored, which means that if a system meets the threshold for unacceptable &#xA;in any of the above criterion, then the system is classified as legacy and requires remediation. &#xA;&#xA;TIME RATINGS:&#xA;&#x9;TOLERATE&#xA;&#x9;INVEST&#xA;&#x9;MEDIATE&#xA;&#x9;ELIMINATE&#xA;are marked against each outcome"/>
