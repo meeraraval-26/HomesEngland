@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Action required"
+    id="id-24af2294f2f140b8a5d3f3e67f9e6101"
+    documentation="The system is not yet legacy but will become legacy within the next 12 months if no action is taken.">
+  <properties
+      key="TIME"
+      value="invest/mediate"/>
+</archimate:CourseOfAction>
