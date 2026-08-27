@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legacy"
+    id="id-0ca4c847d77b46a28c502fce1755e4b5"
+    documentation="The system carries an unacceptable risk or burden and must be remediated as an urgent priority.">
+  <properties
+      key="TIME"
+      value="eliminate"/>
+</archimate:CourseOfAction>

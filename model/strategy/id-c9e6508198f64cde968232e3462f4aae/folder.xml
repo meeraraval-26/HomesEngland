@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="legacy IT definition"
-    id="id-c9e6508198f64cde968232e3462f4aae"/>
+    name="Legacy IT Definition"
+    id="id-c9e6508198f64cde968232e3462f4aae"
+    documentation="https://www.gov.uk/government/publications/guidance-on-the-legacy-it-risk-assessment-framework/updated-definition-of-legacy-it&#xA;&#xA;Legacy IT are systems whose continued use creates a persistent, unacceptable burden or risk and can no longer be &#xA;supported or secured effectively or economically. &#xA;This definition is deliberately centred on burden or risk, rather than age, technology type, hosting model or whether a &#xA;technology is unfashionable.  &#xA;This establishes a common, measurable and uniform understanding of what we define as unacceptable, and what requires remediation. &#xA;&#xA;How is legacy status determined? &#xA;A system is classified as legacy IT if it meets the unacceptable threshold in any of the following 7 legacy criterion. &#xA;Each criterion represents a different way in which a system can create an unacceptable burden or risk."/>

@@ -1,0 +1,9 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accepted"
+    id="id-fe2d774e2d4f4d53a94041c4c7cb3add"
+    documentation="The system is operating within the bounds of risk and burden considered normal and acceptable.">
+  <properties
+      key="TIME"
+      value="tolerate"/>
+</archimate:CourseOfAction>
