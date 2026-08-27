@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="investment management"
     id="id-2e84b719d8114870bde3b2d7440e5af4"
-    documentation="This capability oversees the strategic planning, allocation and deployment of funds to optimise financial resources while managing associated risks">
+    documentation="This capability coordinates the strategic planning, allocation and deployment of funds to optimise financial resources while managing associated risks">
   <properties
       key="level"
       value="1"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="infrastructure funding"
     id="id-0b5c3ee8c1ff49709f3fef0e88b7c910"
-    documentation="This capability deploys capital to unlock land, fund master-planning and finance infrastructure&#xA;">
+    documentation="This capability deploys capital to unlock land, fund master-planning and finance infrastructure">
   <properties
       key="level"
       value="2"/>
