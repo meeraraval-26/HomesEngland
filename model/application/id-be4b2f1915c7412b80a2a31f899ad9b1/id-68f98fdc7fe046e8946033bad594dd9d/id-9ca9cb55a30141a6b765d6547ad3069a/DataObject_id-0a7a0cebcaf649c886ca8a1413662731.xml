@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Geospatial &amp; Spatial Entities"
+    id="id-0a7a0cebcaf649c886ca8a1413662731"
+    documentation="Location-centric datasets (e.g., site boundaries, land parcels, development plots, and geographic assets) requiring strict identity resolution. These entities must be anchored to authoritative spatial references.&#xA;"/>
