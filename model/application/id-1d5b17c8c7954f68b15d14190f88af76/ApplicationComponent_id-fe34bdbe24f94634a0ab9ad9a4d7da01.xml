@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Factory"
+    id="id-fe34bdbe24f94634a0ab9ad9a4d7da01"
+    documentation="business unit DBs → data lake/warehouse"/>

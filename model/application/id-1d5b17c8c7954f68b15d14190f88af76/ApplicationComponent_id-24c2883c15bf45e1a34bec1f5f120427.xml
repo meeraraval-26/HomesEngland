@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Integration Services"
+    id="id-24c2883c15bf45e1a34bec1f5f120427"
+    documentation="defines overall integration layer grouping"/>
