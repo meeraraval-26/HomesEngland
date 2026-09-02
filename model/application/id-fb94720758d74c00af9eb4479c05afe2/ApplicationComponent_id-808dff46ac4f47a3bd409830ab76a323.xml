@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP BI"
+    id="id-808dff46ac4f47a3bd409830ab76a323"
+    documentation="Provides reporting capability for eFin, since eFin has no native reporting of its own. Connects with direct database access rather than through an API or reporting-specific interface, meaning changes to the eFin database schema carry risk of breaking SAP BI reports.">
+  <properties
+      key="Owner"
+      value="Homes England"/>
+  <properties
+      key="Status"
+      value="Current"/>
+  <properties
+      key="Data classification"
+      value="Confidential"/>
+  <properties
+      key="Access pattern"
+      value="Direct DB access (read) — no reporting API"/>
+  <properties
+      key="Known risk"
+      value="Tightly coupled to eFin DB schema; no abstraction layer"/>
+</archimate:ApplicationComponent>

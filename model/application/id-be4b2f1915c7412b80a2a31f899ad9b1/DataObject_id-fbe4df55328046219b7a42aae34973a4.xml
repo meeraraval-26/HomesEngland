@@ -1,0 +1,21 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eFin Database"
+    id="id-fbe4df55328046219b7a42aae34973a4"
+    documentation="The underlying database for eFin, accessed and managed (ReadWrite) directly by eFin, and accessed by multiple feeder systems (PCS, IMS, IRS, LAR) and by SAP BI for reporting. No REST or API-based access layer exists — all access is direct database connection, which is a key security exposure given the number of systems touching it.">
+  <properties
+      key="Data classification"
+      value="Confidential — financial ledger data"/>
+  <properties
+      key="Owner"
+      value="Homes England"/>
+  <properties
+      key="Status"
+      value="Current — at risk"/>
+  <properties
+      key="Access pattern"
+      value="Direct DB access only (no API/REST layer)"/>
+  <properties
+      key="Known risk"
+      value="Multiple external systems have direct read/write access, widening attack surface"/>
+</archimate:DataObject>

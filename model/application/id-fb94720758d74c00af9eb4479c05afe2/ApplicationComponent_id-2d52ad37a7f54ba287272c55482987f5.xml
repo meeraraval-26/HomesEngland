@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LAR"
+    id="id-2d52ad37a7f54ba287272c55482987f5"
+    documentation="Feeder system that writes into the eFin database as part of HE's financial and operational data landscape.">
+  <properties
+      key="Owner"
+      value="Homes England"/>
+  <properties
+      key="Status"
+      value="Current"/>
+  <properties
+      key="Data classification"
+      value="Confidential"/>
+  <properties
+      key="Known risk"
+      value="Direct DB access to eFin"/>
+</archimate:ApplicationComponent>
