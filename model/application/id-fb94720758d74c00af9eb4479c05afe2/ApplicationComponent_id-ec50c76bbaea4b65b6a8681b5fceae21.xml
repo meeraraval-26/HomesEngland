@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IMS"
+    id="id-ec50c76bbaea4b65b6a8681b5fceae21"
+    documentation="Feeder system that writes financial/operational data into the eFin database. Also known to hold some financial data that does not live in eFin itself, contributing to the fragmented financial data landscape noted in the current-state assessment.">
+  <properties
+      key="Owner"
+      value="Homes England"/>
+  <properties
+      key="Status"
+      value="Current"/>
+  <properties
+      key="Data classification"
+      value="Confidential"/>
+  <properties
+      key="Known risk"
+      value="Direct DB access to eFin; partial data overlap/fragmentation with eFin"/>
+</archimate:ApplicationComponent>

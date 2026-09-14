@@ -1,0 +1,21 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CSV files"
+    id="id-f0f51f6baca245538c1e233c19e0eabe"
+    documentation="Flat files used for manual data exchange between the feeder systems and eFin, since eFin's core modules have no automated integration by default (per OneAdvanced's product design — automation would require their separate CIBR product, which HE does not currently use). All CSV processing is manual, which is flagged as a cyber risk given the lack of validation or automated controls around this exchange.">
+  <properties
+      key="Owner"
+      value="Homes England"/>
+  <properties
+      key="Status"
+      value="Current — flagged risk"/>
+  <properties
+      key="Processing"
+      value="Manual — no automation"/>
+  <properties
+      key="Data classification"
+      value="Confidential"/>
+  <properties
+      key="Known risk"
+      value="No input validation; manual handling increases error and exposure risk"/>
+</archimate:DataObject>

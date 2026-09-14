@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PCS"
+    id="id-334f5b608be74db9a8b640074e098189"
+    documentation="Feeder system that writes financial/operational data into the eFin database. Flagged as the highest-risk feeder system in this architecture, as it is not hosted within Azure but sits in a separate VPC/subnet, increasing the attack surface relative to the other feeder systems.">
+  <properties
+      key="Owner"
+      value="Homes England"/>
+  <properties
+      key="Status"
+      value="Current"/>
+  <properties
+      key="Environment"
+      value="Outside Azure — separate VPC/subnet"/>
+  <properties
+      key="Data classification"
+      value="Confidential"/>
+  <properties
+      key="Known risk"
+      value="Elevated — not part of the Azure-hosted estate; direct DB access to eFin"/>
+</archimate:ApplicationComponent>

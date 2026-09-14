@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="eFin"
     id="id-076ab8eae8894af5a8e068637c94c8ea"
-    documentation="end of life financials app&#xA;currently being uopgraded to 6.5&#xA;supplied by One Advanced&#xA;https://www.oneadvanced.com/products/financials/"/>
+    documentation="end of life financials app&#xA;currently being uopgraded to 6.5&#xA;supplied by One Advanced&#xA;https://www.oneadvanced.com/products/financials/">
+  <properties
+      key="Owner"
+      value="Homes England"/>
+  <properties
+      key="Status"
+      value="Current"/>
+  <properties
+      key="Technology stack"
+      value="Oracle 8, Java, Oracle WebLogic 3"/>
+  <properties
+      key="Environment"
+      value="Production, hosted in Hampshire (VMware, migrating to Azure)"/>
+  <properties
+      key="Data classification"
+      value="Confidential — financial ledger data"/>
+</archimate:ApplicationComponent>
