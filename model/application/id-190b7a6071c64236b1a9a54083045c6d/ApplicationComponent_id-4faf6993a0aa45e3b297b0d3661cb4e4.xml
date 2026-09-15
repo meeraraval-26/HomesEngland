@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retained application component"
+    id="id-4faf6993a0aa45e3b297b0d3661cb4e4"
+    documentation="Template for those applications not retired from HE by an accelerator&#xA;&#xA;This section must contain a brief description of what the app does &amp; any other&#xA;useful details not captured in other docs.&#xA;&#xA;a template for those applications not retired from HE by an accelerator&#xA;these should be in our &#xA;&#x9;1. application catalogue&#xA;&#x9;2. integration catalogue&#xA;&#x9;3. tech debt register&#xA;&#xA;where known we should include their end of service date&#xA;if we know the likely successor we should include that and ensure that the successor is present in this model&#xA;we should also include a LeanIX link (or note that application doesn't exist in LeanIX)">
+  <properties
+      key="EOL date"/>
+  <properties
+      key="LeanIX link"/>
+  <properties
+      key="successor"/>
+</archimate:ApplicationComponent>
