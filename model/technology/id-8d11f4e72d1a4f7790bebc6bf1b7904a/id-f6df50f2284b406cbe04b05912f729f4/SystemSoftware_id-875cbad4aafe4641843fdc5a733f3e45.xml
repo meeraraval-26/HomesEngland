@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS active directory "
+    id="id-875cbad4aafe4641843fdc5a733f3e45"
+    documentation="Used for legacy systems (primarily access to the NFS) and is the source of where users are created. The users are synced into MS Entra ID"/>

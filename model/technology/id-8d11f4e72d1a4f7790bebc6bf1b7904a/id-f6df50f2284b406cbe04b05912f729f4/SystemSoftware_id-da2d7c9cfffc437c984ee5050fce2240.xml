@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS entra ID"
+    id="id-da2d7c9cfffc437c984ee5050fce2240"
+    documentation="The source of user, groups and permissions that will determine the behaviour of the Copilot M365 business service. "/>

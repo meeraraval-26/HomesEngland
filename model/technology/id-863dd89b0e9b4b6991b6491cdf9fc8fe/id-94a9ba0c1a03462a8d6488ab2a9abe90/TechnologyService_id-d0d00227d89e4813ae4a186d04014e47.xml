@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="unstructured data"
+    id="id-d0d00227d89e4813ae4a186d04014e47"
+    documentation="This also includes semi-structured data as it refers to all content stored in O365 based files outside of Email and Teams Meetings / Chats"/>

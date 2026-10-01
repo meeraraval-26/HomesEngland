@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS graph"
+    id="id-218002407fcd48288900e5df940c7c28"
+    documentation="Performs organizational data searches based on prompt keywords. Interrogates underlying data sources while enforcing user-level access permissions to ensure only authorized information is retrieved for context augmentation"/>

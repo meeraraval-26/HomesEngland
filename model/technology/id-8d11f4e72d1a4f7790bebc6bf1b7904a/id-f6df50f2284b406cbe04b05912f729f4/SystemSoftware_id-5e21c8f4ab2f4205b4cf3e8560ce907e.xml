@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NFS"
+    id="id-5e21c8f4ab2f4205b4cf3e8560ce907e"
+    documentation="Network File Share. An on-prem data store, access managed by Active Directory, and used for business-critical documents"/>
