@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GOV.UK DSA (Header)"
+    id="id-f83aca75dc92456b81d32d660ed43933"
+    documentation="GOV.UK Data Standards Authority (DSA) Mandatory Header Tags &#xA;&#xA;Every message payload (API request, published event, or ELT record) must include a standardized JSON/HTTP header block: &#xA;&#xA;dataOwner: The responsible business domain owner (e.g., Investment-Directorate). &#xA;&#xA;securityClassification: Mandatory data marker (Official or Official-Sensitive). &#xA;&#xA;schemaIdentifier: Unique URI linking to the registered OpenAPI / JSON Schema definition. &#xA;&#xA;schemaVersion: Semantic version number of the payload structure (e.g., v1.2.0). &#xA;&#xA;correlationId: Globally Unique Identifier (GUID) appended at ingress for end-to-end audit tracing across logs. &#xA;&#xA;timestamp: ISO-8601 UTC creation timestamp adhering strictly to YYYY-MM-DDTHH:MM:SS.SSSZ or explicit UTC offset (e.g., 2026-08-26T14:30:00.000+01:00) "/>

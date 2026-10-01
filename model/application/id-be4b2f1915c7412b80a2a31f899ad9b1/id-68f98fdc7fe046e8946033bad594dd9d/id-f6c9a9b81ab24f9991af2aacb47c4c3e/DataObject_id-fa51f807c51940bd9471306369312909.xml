@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Canonical Payload Schema"
+    id="id-fa51f807c51940bd9471306369312909"
+    documentation="The logical data architecture defines the structures, contract formats, payload limits, and governance metadata required to standardize payloads moving across Homes England. &#xA;&#xA;Enterprise Metadata Standards &amp; Schema Governance &#xA;&#xA;To satisfy GOV.UK compliance and ensure data assets remain findable, accessible, interoperable, and reusable (FAIR), all message payloads passing through the integration layer must be UTF-8 encoded and carry a mandatory standardized header envelope"/>

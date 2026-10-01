@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Business Payload (Body)"
+    id="id-2fda3c2f1ed140fa9833f650261cb377"
+    documentation="While items 1 and 2 define the mandatory standardized header envelope, item 3 governs the logical structure and attributes for the Business Payload Body: &#xA;&#xA;Domain Attributes &amp; Entity State: Contains entity-specific business data attributes formatted in standard camelCase (e.g., schemeId, fundingAllocation, status, partnerId). &#xA;&#xA;ISO 4217 Currency Standards: All financial and monetary values must be represented as numeric decimals (minimum two decimal places, e.g., 1500000.00) and accompanied by a separate ISO 4217 three-letter currency code attribute (e.g., currencyCode: &quot;GBP&quot;) &#xA;&#xA;Spatial Entity Anchoring: Any business entity referring to physical land or property must include a siteSpatialAnchor (referencing the Esri UPRN or Global ID) within its core body attributes to ensure spatial identity resolution across domain applications. "/>

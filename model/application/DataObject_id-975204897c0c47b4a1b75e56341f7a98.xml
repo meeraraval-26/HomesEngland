@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytical Data Assets"
+    id="id-975204897c0c47b4a1b75e56341f7a98"
+    documentation="High-volume operational data, telemetry, and change logs extracted from line-of-business applications and ingested into the central Data Platform via bulk ELT pipelines for enterprise reporting and analytics&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactional Data Payloads"
+    id="id-026374c43e2547a2af645314d5b08ef5"
+    documentation="Operational business entities (e.g., scheme applications, funding allocations, partner profiles, and loan contracts) exchanged dynamically via synchronous REST APIs or asynchronous event channels.&#xA;"/>
