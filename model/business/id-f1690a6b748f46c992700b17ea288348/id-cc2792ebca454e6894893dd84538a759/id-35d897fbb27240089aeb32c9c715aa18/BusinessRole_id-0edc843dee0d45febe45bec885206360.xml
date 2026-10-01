@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data steward"
+    id="id-0edc843dee0d45febe45bec885206360"
+    documentation="A user with suitable permissions to act as a data steward in conjunction with the data governance policies"/>

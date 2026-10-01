@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IAM admin"
+    id="id-07ebed004e5b44ad8125f2a0ce3b05d4"
+    documentation="A user with suitable permissions to add/update users and the associated permissions, specifically relating to the O365 domain"/>

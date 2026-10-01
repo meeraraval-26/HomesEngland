@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="copilot M365 user"
+    id="id-d69da26899a7466aa78282a8d5ba266a"
+    documentation="A user that have the license and permissions to use Copilot M365 (E7)."/>

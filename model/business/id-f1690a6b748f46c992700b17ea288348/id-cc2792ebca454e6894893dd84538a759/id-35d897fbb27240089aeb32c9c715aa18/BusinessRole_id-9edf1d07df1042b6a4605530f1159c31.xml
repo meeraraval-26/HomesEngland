@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="guardrails admin"
+    id="id-9edf1d07df1042b6a4605530f1159c31"
+    documentation="A user who can configure guardrails in conjunction with the data and AI governance policies"/>
