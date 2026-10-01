@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="permission management"
+    id="id-4df42751c0bb440fa7109d9edcfc9ce5"
+    documentation="Where Homes England users are granted access to the E7 license, along with user groups that align with data governance and file permissions"/>

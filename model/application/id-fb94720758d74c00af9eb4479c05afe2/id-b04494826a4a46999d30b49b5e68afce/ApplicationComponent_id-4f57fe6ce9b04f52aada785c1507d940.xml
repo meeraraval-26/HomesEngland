@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data guardrail(s)"
+    id="id-4f57fe6ce9b04f52aada785c1507d940"
+    documentation="The ability to apply guardrails to manage the access of AI prompts"/>
