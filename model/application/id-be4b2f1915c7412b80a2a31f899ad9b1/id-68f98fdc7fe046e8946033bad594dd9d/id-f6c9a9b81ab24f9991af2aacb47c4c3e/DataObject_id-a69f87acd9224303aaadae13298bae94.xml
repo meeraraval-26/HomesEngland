@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UK GEMINI Spatial (Header)"
+    id="id-a69f87acd9224303aaadae13298bae94"
+    documentation="Any payload containing geographical or land-based attributes must append UK GEMINI spatial tags: &#xA;&#xA;spatialIdentifier: Authoritative Unique Property Reference Number (UPRN), Unique Street Reference Number (USRN), or Esri Global ID. &#xA;&#xA;coordinateReferenceSystem: Standard CRS designation (defaulting to OSGB36 / EPSG:27700 for Great Britain National Grid). &#xA;&#xA;spatialBoundingBox: Vector coordinates defining site extent boundaries. "/>
