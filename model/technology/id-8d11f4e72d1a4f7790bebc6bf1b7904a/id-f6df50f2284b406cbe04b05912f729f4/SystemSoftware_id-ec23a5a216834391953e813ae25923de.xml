@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS O365 application"
+    id="id-ec23a5a216834391953e813ae25923de"
+    documentation="Hosts user interaction interfaces (Word, Excel, PowerPoint, Outlook, Teams, Copilot App). Captures initial user prompts alongside contextual data (documents, emails, meeting transcripts)"/>

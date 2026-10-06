@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sharepoint"
+    id="id-8b4ab01715de4f9c964878619c75951f"
+    documentation="Part of the O365 service and flows into MS Graph to create a library of data and access information, based on Entra ID, that can support Copilot"/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS purview"
+    id="id-a429db259587486582f77318b81d52ad"
+    documentation="Supports:&#xA;- Data governance, labels can be applied automatically to content that is created inside of SharePoint, OneDrive, MS Exchange, MS Teams, as well as retrospective labelling of content in bulk.&#xA;&#xA;- Guardrails for Copilot to ensure data is not mis-used as part of prompts.&#xA;"/>

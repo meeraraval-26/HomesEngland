@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="copilot M365 (E7)"
+    id="id-cbf395bfec264165a482b68115a21ff2"
+    documentation="Orchestrates the prompt lifecycle. Receives incoming prompts from MS O365 Applications, initiates context retrieval via MS Graph, verifies data governance rules with MS Purview, constructs structured LLM request payloads, and formats returning LLM responses back to the source application."/>

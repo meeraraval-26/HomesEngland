@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AI service"
+    id="id-3bfea5563aaf41c7adae2bc1f6f20235"
+    documentation="Can access (indirectly) the Generated Files artefact, through MS Graph"/>

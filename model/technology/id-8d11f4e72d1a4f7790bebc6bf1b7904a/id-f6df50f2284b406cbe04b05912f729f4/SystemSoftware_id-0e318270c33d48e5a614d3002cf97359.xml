@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onedrive"
+    id="id-0e318270c33d48e5a614d3002cf97359"
+    documentation="The users ‘home’ directories, but content can be shared with other users, based on the permissions set out by Entra ID.  This also feeds into MS Graph"/>

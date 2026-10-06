@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MS LLM"
+    id="id-c83b95f493914d11a677347422d85bb5"
+    documentation="Processes fully structured, context-augmented requests sent from Copilot M365 (E7). Generates natural language or structured output responses and returns them to Copilot M365 (E7) for post-processing."/>
