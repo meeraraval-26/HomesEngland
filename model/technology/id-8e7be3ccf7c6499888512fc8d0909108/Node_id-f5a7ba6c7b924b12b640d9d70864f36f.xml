@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linux Node Pool (Ubuntu Container Host)"
+    id="id-f5a7ba6c7b924b12b640d9d70864f36f"
+    documentation="A group of Linux virtual machines inside the cluster. It hosts Ubuntu Linux containers (Location Service, Payment Service, Notification Service, Spatial API, and other bespoke workloads)."/>

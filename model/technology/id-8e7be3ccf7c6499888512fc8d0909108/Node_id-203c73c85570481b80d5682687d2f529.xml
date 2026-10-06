@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Files/Storage Accounts"
+    id="id-203c73c85570481b80d5682687d2f529"
+    documentation="Provides file storage (e.g., 500 GiB share for uploaded documents in Property Consents)."/>

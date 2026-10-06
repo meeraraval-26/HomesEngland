@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Property Consents App (HILO)"
+    id="id-ca4628e048354ed09710c812c54cb2fc"
+    documentation="Public web service for submitting applications for consent (property works, sales, leases, mortgage releases).">
+  <properties
+      key="Technology stack"
+      value="ASP.NET Framework 4.8, Entity Framework 6, Angular 19 frontend"/>
+  <properties
+      key="Container Type"
+      value="Windows Container (pushed via Helm chart to hilo-{env}-01-ns)"/>
+  <properties
+      key="Public DNS"
+      value="consents.homesengland.org.uk, digitalservices.homesengland.org.uk"/>
+  <properties
+      key="Supporting Infrastructure"
+      value="AKS Windows Node Pool (3 Replicas in PRD), SQL Managed Instance, Azure Files (ZRS Storage Account, 500 GiB), App Insights, Workload Identity"/>
+  <properties
+      key="External Dependencies"
+      value="Ordnance Survey lookup, Land Registry title validation, Scan64.msi virus scanner, Email notification service"/>
+  <properties
+      key="Data &amp; Privacy"
+      value="Processes PII (Yes), Persists PII (Yes)"/>
+</archimate:ApplicationComponent>

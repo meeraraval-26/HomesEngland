@@ -1,0 +1,18 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Spatial API"
+    id="id-b1d957debc3f4819873bee82c6dd6d0f"
+    documentation="Core spatial data API enabling applications (TMS, Site Explorer, HIF) to read and write spatial geometries and attributes stored in spatial databases.">
+  <properties
+      key="Technology stack"
+      value=".NET Web API (Containerised workload)"/>
+  <properties
+      key="Public DNS"
+      value="spatial-api.homesengland.org.uk"/>
+  <properties
+      key="Hybrid Bridge"
+      value="Uses Azure Relay Bridge (azbridge) to connect across network boundaries to databases outside CHS."/>
+  <properties
+      key="Database Dependencies"
+      value="On-premises Postgres (gilgamesh for Test, greenwich for Live/Preprod) and Oracle Database."/>
+</archimate:ApplicationComponent>
