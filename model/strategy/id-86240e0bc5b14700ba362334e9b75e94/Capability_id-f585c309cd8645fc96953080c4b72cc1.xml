@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data readiness"
+    id="id-f585c309cd8645fc96953080c4b72cc1"
+    documentation="Ability to validate, permission-audit and structure enterprise data environments prior to granting AI indexing access"/>

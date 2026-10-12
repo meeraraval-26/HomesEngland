@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="legacy data gap"
+    id="id-2ccb4c2b6f134340a18aac2dc60f27e9"
+    documentation="A massive volume (18TB) of legacy and operational user data currently sits outside the Office 365 tenant boundary. Because Copilot cannot contextually query unmigrated information, there is an immediate risk of a degraded or incomplete user experience if staff attempt to pull insights from these repositories. &#xA;"/>
