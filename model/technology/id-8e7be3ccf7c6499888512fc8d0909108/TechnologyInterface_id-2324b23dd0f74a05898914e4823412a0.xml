@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Relay Bridge (azbridge)"
+    id="id-2324b23dd0f74a05898914e4823412a0"
+    documentation="A secure tunnel that allows applications inside CHS to talk to legacy databases located outside CHS without needing a complex site-to-site VPN."/>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure SQL Managed Instance"
+    id="id-a73dac40454343248a66eba1e2d361b6"
+    documentation="Fully managed SQL Server used by hilo (Property Consents) and some Ubuntu containers that require a SQL backend."/>

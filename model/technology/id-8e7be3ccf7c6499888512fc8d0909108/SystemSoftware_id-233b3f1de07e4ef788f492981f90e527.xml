@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Key Vault &amp; App Insights"
+    id="id-233b3f1de07e4ef788f492981f90e527"
+    documentation="Secrets management and logging/monitoring services connected to almost every container."/>

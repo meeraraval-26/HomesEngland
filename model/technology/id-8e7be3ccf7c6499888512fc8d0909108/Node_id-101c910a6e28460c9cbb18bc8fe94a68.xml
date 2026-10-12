@@ -1,0 +1,7 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AKS Private Cluster"
+    id="id-101c910a6e28460c9cbb18bc8fe94a68"
+    documentation="The master boundary for all containerized workloads.">
+  <properties/>
+</archimate:Node>
