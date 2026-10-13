@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02 - loans &amp; grants management"
+    id="id-e729fa4c33f846cd99e1a109c85d7ae1">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+</archimate:ApplicationService>

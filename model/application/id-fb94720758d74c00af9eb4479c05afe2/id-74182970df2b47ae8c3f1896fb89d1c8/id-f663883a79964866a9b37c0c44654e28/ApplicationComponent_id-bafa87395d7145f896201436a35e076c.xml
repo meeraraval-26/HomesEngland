@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ESRI"
+    id="id-bafa87395d7145f896201436a35e076c">
+  <properties
+      key="EOL date"
+      value="None"/>
+  <properties
+      key="LeanIX link"
+      value="https://homesengland.leanix.net/HomesEnglandLive/factsheet/Application/d36dfc5c-005f-4e67-93cd-36c95b0f26e4"/>
+  <properties
+      key="successor"
+      value="N/A"/>
+</archimate:ApplicationComponent>

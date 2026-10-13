@@ -1,0 +1,30 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="14 - collaboration"
+    id="id-a4f5670eef824b40b20147ffb2f64de0">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="retired legacy system(s)"
+      value="sharepoint"/>
+  <properties
+      key="retired legacy system(s)"
+      value="one drive"/>
+  <properties
+      key="retired legacy system(s)"
+      value="read &amp; write"/>
+  <properties
+      key="retired legacy system(s)"
+      value="partner portal"/>
+</archimate:ApplicationService>

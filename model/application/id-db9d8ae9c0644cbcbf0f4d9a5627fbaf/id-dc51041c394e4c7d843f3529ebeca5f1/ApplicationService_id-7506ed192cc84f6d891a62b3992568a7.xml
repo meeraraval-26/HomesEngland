@@ -1,0 +1,24 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="09 - supplier management"
+    id="id-7506ed192cc84f6d891a62b3992568a7">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="legacy system(s)"
+      value="proactis"/>
+  <properties
+      key="legacy system(s)"
+      value="SAP Fieldglass"/>
+</archimate:ApplicationService>

@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KnowBe4"
+    id="id-642677c4ed6449a295415f8131ea426e"
+    documentation="https://www.knowbe4.com/&#xA;&#xA;Provides security awareness training and simulated phishing platforms designed to address the human factor in corporate security. &#xA;Specializes in turning employees into an active line of defense against social engineering, business email compromise (BEC), and phishing attacks.&#xA;Operates on a Software-as-a-Service (SaaS) subscription model tiered by feature set and organization size.&#xA;One of the largest players in the human risk management (HRM) and security awareness training market.&#xA;Direct competitor of MS Defender.&#xA;&#xA;Not currently in LeanIX.">
+  <properties
+      key="EOL date"
+      value="None"/>
+  <properties
+      key="LeanIX link"/>
+  <properties
+      key="successor"
+      value="N/A"/>
+</archimate:ApplicationComponent>
