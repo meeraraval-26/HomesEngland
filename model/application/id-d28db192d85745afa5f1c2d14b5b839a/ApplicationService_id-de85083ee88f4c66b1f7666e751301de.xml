@@ -1,0 +1,18 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notification Service"
+    id="id-de85083ee88f4c66b1f7666e751301de"
+    documentation="Reusable common component for multi-channel messaging and user notifications across Homes England services. First primary consumer is the Payment Service.">
+  <properties
+      key="Technology stack"
+      value=".NET with HTML/JS/CSS, Docker Container"/>
+  <properties
+      key="Public DNS"
+      value="notification.homesengland.org.uk"/>
+  <properties
+      key="Supporting Infrastructure"
+      value="AKS (2 Pods), Azure Key Vault, App Insights, ACR"/>
+  <properties
+      key="Data &amp; Privacy"
+      value="Processes PII (Yes), Persists PII (No)"/>
+</archimate:ApplicationService>

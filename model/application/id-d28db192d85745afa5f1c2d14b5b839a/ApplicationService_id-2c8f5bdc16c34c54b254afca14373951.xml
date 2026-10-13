@@ -1,0 +1,24 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payments Service"
+    id="id-2c8f5bdc16c34c54b254afca14373951"
+    documentation="Reusable common platform component for Homes England product teams to integrate payment capabilities into enterprise services. Available across all parts of the HE business and public-facing applications.&#xA;&#xA;Containerised application component delivering common payment service capabilities. Developed using .NET core with HTML/JS/CSS frontend components.">
+  <properties
+      key="Technology stack"
+      value=".NET, HTML/JS/CSS, Docker Container"/>
+  <properties
+      key="Consumer"
+      value="All Homes England Business Services &amp; Public Access"/>
+  <properties
+      key="Deployment Unit"
+      value="Docker Container"/>
+  <properties
+      key="Public DNS"
+      value="payment.homesengland.org.uk"/>
+  <properties
+      key="Supporting Infrastructure"
+      value="AKS (2 Pods), Azure Key Vault, App Insights, ACR"/>
+  <properties
+      key="Data &amp; Privacy "
+      value="Processes PII (Yes), Persists PII (No)"/>
+</archimate:ApplicationService>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Windows Node Pool (Windows Container Host)"
+    id="id-af9e7847479948928549578882f16391"
+    documentation="A group of Windows Server virtual machines inside the cluster. It exists specifically because the Property Consents App (hilo) uses legacy .NET Framework 4.8 and cannot run on Linux."/>

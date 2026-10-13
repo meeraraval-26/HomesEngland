@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Service Bus"
+    id="id-f3945310c17e4cae91f95754959fda48"
+    documentation="Message queuing service used by he.payment to process payment tasks asynchronously."/>

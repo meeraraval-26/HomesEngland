@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="over-sharing risk"
+    id="id-a164c24cb5d84403b3faf8c745da951b"
+    documentation="Copilot strictly respects active user permissions. If legacy document permissions within the O365 ecosystem are inaccurate or have not been fully audited, there is a severe risk of Copilot inadvertently surfacing sensitive or outdated internal files to unauthorized end-users. "/>

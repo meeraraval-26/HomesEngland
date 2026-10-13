@@ -1,0 +1,21 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location Service"
+    id="id-78757f16a4194d9db2b4586e692d66b3"
+    documentation="Reusable common component used by Homes England product teams to process location, address lookup, and spatial metadata.">
+  <properties
+      key="Technology stack"
+      value=".NET with HTML/JS/CSS, Docker Container"/>
+  <properties
+      key="Public DNS"
+      value="n/a (MVP is internal only)"/>
+  <properties
+      key="Supporting Infrastructure"
+      value="AKS (2 Pods), Redis Cache, Azure Cosmos DB, Azure Key Vault, App Insights"/>
+  <properties
+      key="External dependency"
+      value="Ordnance Survey (OS) REST Service (via HTTPS port)"/>
+  <properties
+      key="Data and Privacy "
+      value="Processes PII (Yes), Persists PII (Yes)"/>
+</archimate:ApplicationService>

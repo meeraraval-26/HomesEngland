@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Oracle &amp; Postgres Databases"
+    id="id-eac7770754334dcc999d58572eb5d334"
+    documentation="Non-CHS databases (greenwich and gilgamesh) used by the Spatial API to read/write spatial geometry."/>
