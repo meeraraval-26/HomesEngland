@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auth0"
+    id="id-f590959955b9406787e0d9c4c262e75c"
+    documentation="https://auth0.com/&#xA;&#xA;">
+  <properties
+      key="EOL date"
+      value="None"/>
+  <properties
+      key="LeanIX link"/>
+  <properties
+      key="successor"
+      value="N/A"/>
+</archimate:ApplicationComponent>

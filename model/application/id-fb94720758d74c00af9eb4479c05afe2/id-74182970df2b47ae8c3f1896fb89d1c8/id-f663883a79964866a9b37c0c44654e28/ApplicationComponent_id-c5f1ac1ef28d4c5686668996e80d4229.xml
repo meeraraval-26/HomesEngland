@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HE Spatial"
+    id="id-c5f1ac1ef28d4c5686668996e80d4229"
+    documentation="https://www.ordnancesurvey.co.uk/products&#xA;&#xA;HE Ordinance refers to the agency’s instance of Ordinance Survey (OS) data and spatial mapping products.&#xA;These are the recommended solutions in this space, but can be consumed in a number of ways.&#xA;We should look to implement this either as a self hosted DB or as an API.&#xA;For now it can stay as an app.">
+  <properties
+      key="EOL date"
+      value="None"/>
+  <properties
+      key="LeanIX link"
+      value="exists as LAN21 and LAN23 in LeanIX"/>
+  <properties
+      key="successor"
+      value="N/A"/>
+</archimate:ApplicationComponent>

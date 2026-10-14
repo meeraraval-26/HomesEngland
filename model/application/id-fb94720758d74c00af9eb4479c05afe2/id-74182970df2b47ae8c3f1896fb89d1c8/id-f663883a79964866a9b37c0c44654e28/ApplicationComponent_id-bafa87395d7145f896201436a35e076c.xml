@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ESRI"
-    id="id-bafa87395d7145f896201436a35e076c">
+    name="ArcGIS"
+    id="id-bafa87395d7145f896201436a35e076c"
+    documentation="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview&#xA;&#xA;Suite of geographic information system (GIS) and location intelligence software developed by Esri. &#xA;It provides organizations with tools to capture, manage, analyze, map, and visualize geospatial data &#xA;to identify patterns, solve spatial problems, and support infrastructure planning.&#xA;&#xA;There are a number of offerings (desktop, self hosted and online) - we need to know which varieties&#xA;are in play.&#xA;&#xA;They also used SIGNet (but  that come means loads of different things and its marked for being retired).&#xA;So the task here is to clean out geoSpatial and ensure ESRI meets all needs.">
   <properties
       key="EOL date"
       value="None"/>
