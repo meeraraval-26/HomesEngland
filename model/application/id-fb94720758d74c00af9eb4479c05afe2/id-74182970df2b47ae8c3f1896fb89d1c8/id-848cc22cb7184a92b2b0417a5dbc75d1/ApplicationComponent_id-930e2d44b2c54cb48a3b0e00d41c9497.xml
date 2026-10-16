@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VMWare"
+    id="id-930e2d44b2c54cb48a3b0e00d41c9497"
+    documentation="https://www.vmware.com/&#xA;&#xA;There is an extant VMWare architecture and there seems to be a program to modernise/move from Vrown Hosting to Azure">
+  <properties
+      key="EOL date"
+      value="None"/>
+  <properties
+      key="LeanIX link"
+      value="https://homesengland.leanix.net/HomesEnglandLive/factsheet/ITComponent/a4baaefe-8599-4539-a650-028651300f5f"/>
+  <properties
+      key="successor"
+      value="N/A"/>
+</archimate:ApplicationComponent>

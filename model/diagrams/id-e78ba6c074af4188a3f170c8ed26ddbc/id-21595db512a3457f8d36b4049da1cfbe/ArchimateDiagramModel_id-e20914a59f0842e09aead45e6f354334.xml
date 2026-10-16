@@ -306,4 +306,16 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-662829e4ea5c4e329a240bbfe5ac6fb0.xml#id-662829e4ea5c4e329a240bbfe5ac6fb0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6ad43347e11d4e63bee529569ce6d085">
+    <bounds
+        x="420"
+        y="24"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationCollaboration"
+        href="ApplicationCollaboration_id-9bf4b80deb6345ab8ee5ac5e68630270.xml#id-9bf4b80deb6345ab8ee5ac5e68630270"/>
+  </children>
 </archimate:ArchimateDiagramModel>
