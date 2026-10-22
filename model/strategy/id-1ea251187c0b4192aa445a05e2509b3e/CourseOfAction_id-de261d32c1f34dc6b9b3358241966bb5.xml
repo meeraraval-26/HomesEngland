@@ -1,7 +1,8 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="capacity and demand management"
-    id="id-de261d32c1f34dc6b9b3358241966bb5">
+    name="2. Managing our capacity and workloads​"
+    id="id-de261d32c1f34dc6b9b3358241966bb5"
+    documentation="Ensuring leaders and teams have a shared, reliable view of who’s working on what, &#xA;so we can prioritise where people are needed most.​&#xA;&#xA;Priority for pre-Christmas design work but opportunity to refine across January / March. &#xA;Requirements and new ways of working need to be understood to enable a better understanding &#xA;of who is working where and how much time / effort is spent on projects. ​&#xA;&#xA;Level 2 capabilities are:&#xA;&#x9;Strategic prioritisation and triage​&#xA;&#x9;Portfolio, programme and project management ​&#xA;&#x9;Pipeline development ​&#xA;&#x9;Operations oversight​&#xA;&#x9;Human Resources​&#xA;&#x9;Corporate performance monitoring ​&#xA;&#x9;Account and contract management">
   <properties/>
   <properties/>
 </archimate:CourseOfAction>

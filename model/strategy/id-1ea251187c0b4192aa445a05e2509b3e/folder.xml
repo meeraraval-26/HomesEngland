@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="areas of change"
     id="id-1ea251187c0b4192aa445a05e2509b3e"
-    documentation="Deloitte's way of modelling the ICP program"/>
+    documentation="Deloitte's way of modelling the ICP program.&#xA;Should be driven by one or more drivers.&#xA;Should relaize one or more capabilities (at L1 and L2).&#xA;Ulitmately will be realized by a product.&#xA;&#xA;These relations should be depicted in a view rather than properties."/>

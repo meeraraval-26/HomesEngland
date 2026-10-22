@@ -1,0 +1,11 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="common data model"
+    id="id-b3488eb4e54a452981ba3e94ac1a21fc"
+    documentation="teh standard schema for dataverse&#xA;can be extended with bespoke additional tables&#xA;core structure can't be altered">
+  <properties
+      key="classification"/>
+  <properties
+      key="representation"
+      value="csv/JSON/XML etc"/>
+</archimate:DataObject>

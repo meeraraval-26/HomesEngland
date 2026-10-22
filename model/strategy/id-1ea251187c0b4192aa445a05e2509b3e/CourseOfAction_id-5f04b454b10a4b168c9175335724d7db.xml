@@ -1,8 +1,8 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="end to end pipeline"
+    name="1. end to end pipeline"
     id="id-5f04b454b10a4b168c9175335724d7db"
-    documentation="Deloitte's way of modelling the ICP program.&#xA;Should be driven by one or more drivers.&#xA;Should relaize one or more capabilities (at L1 and L2).&#xA;Ulitmately will be realized by a product.&#xA;&#xA;These relations should be depicted in a view rather than properties.">
+    documentation="A connected, end-to-end delivery pipeline​.&#xA;&#xA;Replacing disjointed ways of working with one connected process, so people spend less time &#xA;on manual workarounds from first opportunity through to delivery.​&#xA;&#xA;Priority for pre-Christmas design work, given the importance of an efficient ‘operational spine’&#xA;has on operational delivery teams. Requirements and new ways of working will need to be developed &#xA;to support tech-related activity in February / March 2027. ​&#xA;&#xA;Level 2 capabilities are:&#xA;&#x9;Strategic prioritisation and triage​&#xA;&#x9;Portfolio, programme and project management ​&#xA;&#x9;Pipeline development ​&#xA;&#x9;Operations oversight​&#xA;&#x9;Operational risk management ​&#xA;&#x9;Governance​&#xA;&#x9;Corporate performance monitoring​">
   <properties/>
   <properties/>
 </archimate:CourseOfAction>

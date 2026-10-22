@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dataverse"
+    id="id-d357bb30b02b433b8de34ad341ff06f8"
+    documentation="https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-intro&#xA;&#xA;managed &amp; scalable database service (initially based on SQL Server)&#xA;stores and standardizes business data using the Common Data Model schema">
+  <properties
+      key="availability"
+      value="99.9% over 4 weeks"/>
+  <properties
+      key="CNI"
+      value="no"/>
+  <properties
+      key="data classification"
+      value="official/none"/>
+</archimate:ApplicationService>
