@@ -1,0 +1,19 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="investment to GL"
+    id="id-0ed180b23c1a4c55a26f7e54dc642b95"
+    documentation="Investment Accounting to GL (Subledger Journal Entries)&#xA;&#x9;Direction: Aladdin ⟶ ERP GL&#xA;&#x9;Payload: Aggregated journal entries reflecting portfolio activities over an accounting period (daily, weekly, or monthly).&#xA;&#x9;Components Transferred:&#xA;&#x9;Realized and unrealized gains/losses.&#xA;&#x9;Accrued interest, dividend income, and amortization of bond premiums/discounts.&#xA;&#x9;Mark-to-market (MTM) fair-value balance sheet adjustments.&#xA;&#x9;Corporate actions (stock splits, mergers, spin-offs).&#xA;&#x9;Format: Mapped directly to the ERP’s Chart of Accounts (CoA), tagged by Legal Entity, Fund Code, Cost Center, Currency, and Trading Book.&#xA;">
+  <properties
+      key="direction"
+      value="Aladdin -> ERP"/>
+  <properties
+      key="legacy"
+      value="false"/>
+  <properties
+      key="data type"/>
+  <properties
+      key="channel"/>
+  <properties
+      key="trigger"
+      value="timed/on demand/internal business event"/>
+</archimate:ApplicationInterface>

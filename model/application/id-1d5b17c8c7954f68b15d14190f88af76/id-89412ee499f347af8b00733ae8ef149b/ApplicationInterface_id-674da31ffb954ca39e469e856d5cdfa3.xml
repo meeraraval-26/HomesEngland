@@ -1,0 +1,19 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="treasury reconciliation"
+    id="id-674da31ffb954ca39e469e856d5cdfa3"
+    documentation="Cash, Liquidity &amp; Treasury Reconciliation&#xA;&#x9;Direction: Bi-directional (Aladdin ⟷ ERP Treasury)&#xA;&#x9;Payload:&#xA;&#x9;Aladdin to ERP: Settled investment cash, trade settlement obligations, collateral movements, and projected cash flows from coupons or debt maturities.&#xA;&#x9;ERP to Aladdin: Swept cash balances, central bank accounts, non-investment corporate cash, or debt issuance proceeds available for deployment.&#xA;">
+  <properties
+      key="direction"
+      value="inbound/outbound"/>
+  <properties
+      key="legacy"
+      value="true/false"/>
+  <properties
+      key="data type"/>
+  <properties
+      key="channel"/>
+  <properties
+      key="trigger"
+      value="timed/on demand/internal business event"/>
+</archimate:ApplicationInterface>

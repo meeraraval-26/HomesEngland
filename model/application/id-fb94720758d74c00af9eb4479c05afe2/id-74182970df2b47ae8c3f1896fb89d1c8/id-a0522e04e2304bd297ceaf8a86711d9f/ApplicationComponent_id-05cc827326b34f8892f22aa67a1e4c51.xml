@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eFront"
+    id="id-05cc827326b34f8892f22aa67a1e4c51"
+    documentation="traditionally on prem, its now on the aladdin platfrom&#xA;UK-specific hosting regions:&#xA;&#x9;Azure UK South / London &#xA;&#x9;or &#xA;&#x9;AWS London eu-west-2)&#xA;&#xA;seen as demanding to connect to a corporate ERP &#xA;holds the investment sub-ledger and posts summarised journals to the ERP general ledger, &#xA;reference data such as chart of accounts and cost centres flowing the other way"/>
