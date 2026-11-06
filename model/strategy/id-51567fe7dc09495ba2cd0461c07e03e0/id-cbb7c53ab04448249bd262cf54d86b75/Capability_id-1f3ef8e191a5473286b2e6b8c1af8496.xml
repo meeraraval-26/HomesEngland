@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data &amp; analytics"
+    id="id-1f3ef8e191a5473286b2e6b8c1af8496"
+    documentation="This capability governs and analyses organisational data assets, delivering business intelligence, predictive insight and reporting capabilities to support evidence-based decision-making.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

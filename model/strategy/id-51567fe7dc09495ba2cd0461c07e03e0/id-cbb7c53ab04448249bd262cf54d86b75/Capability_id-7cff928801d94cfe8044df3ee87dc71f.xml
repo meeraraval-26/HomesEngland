@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="affordable housing management "
+    id="id-7cff928801d94cfe8044df3ee87dc71f"
+    documentation="This capability administers, monitors and evaluates targeted programmes and funding streams dedicated to affordable housing delivery, managing partner allocations, scheme approvals and compliance to maximise supply across diverse tenures.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="national programme management"/>
+</archimate:Capability>

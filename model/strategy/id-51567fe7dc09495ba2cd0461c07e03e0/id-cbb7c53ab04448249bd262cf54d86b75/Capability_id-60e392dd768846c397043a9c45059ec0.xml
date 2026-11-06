@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="grant management"
+    name="guarantees"
     id="id-60e392dd768846c397043a9c45059ec0"
-    documentation="This capability coordinates the end-to-end administration of grant schemes, from application assessment and award through to disbursement and post-award monitoring">
+    documentation="This capability designs and manages financial guarantee mechanisms to de-risk development, unlock private sector lending and support market liquidity without requiring immediate upfront capital expenditure.">
   <properties
       key="level"
       value="2"/>
@@ -11,5 +11,5 @@
       value="business"/>
   <properties
       key="parent"
-      value="investment management"/>
+      value="finacial transactions &amp; guarantees"/>
 </archimate:Capability>

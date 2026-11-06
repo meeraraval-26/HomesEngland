@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="digital &amp; technology "
+    id="id-94e5e4cd74054a9d86b2263a8cf2584c"
+    documentation="This capability designs, delivers and maintains digital services, software applications, IT infrastructure and cyber security to provide resilient, secure and user-centred technology platforms across the organisation.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sustainability "
+    id="id-da20f48c4b0c4c9ba187bce20c182a78"
+    documentation="This capability embeds environmental, social and long-term viability considerations into delivery strategies to ensure interventions drive responsible stewardship and meet wider placemaking goals">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="delivery strategy"/>
+</archimate:Capability>

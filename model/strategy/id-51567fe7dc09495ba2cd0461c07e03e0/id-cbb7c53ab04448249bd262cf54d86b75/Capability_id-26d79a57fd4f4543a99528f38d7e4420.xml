@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="change &amp; transformation"
+    id="id-26d79a57fd4f4543a99528f38d7e4420"
+    documentation="This capability delivers organisational change programmes, operating model redesigns and continuous improvement initiatives to enable successful adoption and lasting business transformation.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

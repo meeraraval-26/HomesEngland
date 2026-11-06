@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="internal audit &amp; assurance"
+    id="id-dc2aac891b1f4f70aa78c14a97058eaa"
+    documentation="This capability delivers independent, objective reviews of internal controls, processes and governance systems to provide assurance on operational effectiveness and support continuous risk mitigation.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

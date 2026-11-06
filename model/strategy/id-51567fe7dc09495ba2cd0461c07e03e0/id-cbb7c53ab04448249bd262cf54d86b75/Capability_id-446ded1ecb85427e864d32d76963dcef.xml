@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="performance monitoring"
+    name="account &amp; contract management "
     id="id-446ded1ecb85427e864d32d76963dcef"
-    documentation="This capability tracks and analyses operational outputs against strategic key performance indicators. It provides real-time data to evaluate service delivery and drive continuous improvement">
+    documentation="This capability oversees ongoing contractual relationships, supplier performance and key account management, ensuring contractual obligations are delivered, value for money is realised and issues are effectively resolved throughout the contract lifecycle.">
   <properties
       key="level"
       value="2"/>
@@ -11,5 +11,5 @@
       value="business"/>
   <properties
       key="parent"
-      value="operational coordination "/>
+      value="operational and delivery management "/>
 </archimate:Capability>

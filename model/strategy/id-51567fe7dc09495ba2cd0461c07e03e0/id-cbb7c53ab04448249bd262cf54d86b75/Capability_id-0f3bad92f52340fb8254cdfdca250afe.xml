@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ceo office"
+    name="chief of staff"
     id="id-0f3bad92f52340fb8254cdfdca250afe"
-    documentation="This capability provides executive support, strategic coordination and board administration. It manages senior leadership communications and handles high-level stakeholder relations&#xA;">
+    documentation="This capability coordinates executive governance, strategic priorities and cross-functional initiatives, supporting senior leadership decision-making and ensuring effective alignment between the executive and wider operations.">
   <properties
       key="level"
       value="2"/>

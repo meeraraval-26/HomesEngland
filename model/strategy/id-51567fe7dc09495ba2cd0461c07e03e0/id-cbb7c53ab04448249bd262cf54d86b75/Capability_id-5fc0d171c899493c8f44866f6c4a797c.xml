@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="enterprise risk management "
+    id="id-5fc0d171c899493c8f44866f6c4a797c"
+    documentation="This capability establishes and embeds the organisation-wide risk management framework to identify, assess and monitor strategic and systemic risks, ensuring consistent risk governance across all operations.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

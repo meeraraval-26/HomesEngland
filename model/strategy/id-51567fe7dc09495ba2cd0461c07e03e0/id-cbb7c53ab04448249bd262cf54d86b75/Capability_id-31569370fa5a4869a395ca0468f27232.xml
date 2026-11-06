@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="estate land disposal"
+    name="estates &amp; land disposal"
     id="id-31569370fa5a4869a395ca0468f27232"
     documentation="This capability executes the sale, lease or transfer of land assets to private, public or third-sector partners">
   <properties
@@ -11,5 +11,5 @@
       value="business"/>
   <properties
       key="parent"
-      value="land management"/>
+      value="place &amp; land development"/>
 </archimate:Capability>

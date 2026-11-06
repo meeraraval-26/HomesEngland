@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="governance"
+    id="id-c7e4cf42be68465783d800038be67dcc"
+    documentation="This capability maintains corporate governance structures, administers board and committee operations, and enforces regulatory compliance to ensure robust, transparent and accountable organisational decision-making.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

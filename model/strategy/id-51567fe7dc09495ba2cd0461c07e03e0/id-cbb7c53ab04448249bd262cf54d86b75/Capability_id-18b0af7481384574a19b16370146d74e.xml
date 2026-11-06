@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="policy ownership "
+    id="id-18b0af7481384574a19b16370146d74e"
+    documentation="This capability oversees and guides policy across Homes England, translating relevant frameworks, mandates and organisational standards into coherent strategic principles and delivery approaches">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corporate strategy"/>
+</archimate:Capability>

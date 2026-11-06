@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="procurement "
+    id="id-1eb010aa4b0c4b44ae3b9ec2906cd0bb"
+    documentation="This capability oversees the sourcing, tendering and supplier selection processes in compliance with public procurement regulations, ensuring value for money and ethical, sustainable supply chain practices.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>
