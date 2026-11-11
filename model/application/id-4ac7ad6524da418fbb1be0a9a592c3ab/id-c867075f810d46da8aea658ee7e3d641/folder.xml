@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bank"
+    id="id-c867075f810d46da8aea658ee7e3d641"
+    documentation="models the business functions used by the bank&#xA;as detailed in their product selection document whihc recommends adopting&#xA;eFront/Aladdin and integrating with ERP&#xA;technically out of scope for ICP, but the integration isnt&#xA;&#xA;I've assumed that these are applicatin functions that constitute a business process&#xA;and have modelled then as such&#xA;&#xA;paper can be found here:&#xA;https://homesandcommunities-my.sharepoint.com.mcas.ms/:w:/r/personal/rina_begum_homesengland_gov_uk/_layouts/15/Doc.aspx?file=Investment%2BManagement%2BSystem%2B-%2Bproposal.docx&amp;action=default&amp;sourcedoc=%7B1252EA7A-5335-4A27-96D1-ED7534F98F0D%7D&amp;mobileredirect=true"/>

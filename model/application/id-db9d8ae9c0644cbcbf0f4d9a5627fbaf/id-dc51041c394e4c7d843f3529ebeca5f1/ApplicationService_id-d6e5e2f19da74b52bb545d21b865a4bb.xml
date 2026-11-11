@@ -1,0 +1,39 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="07 - land planning"
+    id="id-d6e5e2f19da74b52bb545d21b865a4bb">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="legacy system(s)"
+      value="civica"/>
+  <properties
+      key="legacy system(s)"
+      value="LMT (land management tool)"/>
+  <properties
+      key="legacy system(s)"
+      value="PAS (pipeline assessment service)"/>
+  <properties
+      key="legacy system(s)"
+      value="MRI Horizon"/>
+  <properties
+      key="legacy system(s)"
+      value="Land Hub"/>
+  <properties
+      key="legacy system(s)"
+      value="LPS (Land Property Service)"/>
+  <properties
+      key="legacy system(s)"
+      value="EMS (Estate Management System)"/>
+</archimate:ApplicationService>

@@ -1,0 +1,8 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="area of change"
+    id="id-b5106a7bade842989dde14b28b3caf4e"
+    documentation="Deloitte's way of modelling the ICP program.&#xA;Should be driven by one or more drivers.&#xA;Should relaize one or more capabilities (at L1 and L2).&#xA;Ulitmately will be realized by a product.&#xA;&#xA;These relations should be depicted in a view rather than properties.">
+  <properties/>
+  <properties/>
+</archimate:CourseOfAction>

@@ -1,0 +1,30 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01 - case management"
+    id="id-c083cf2313db477cbe4ff114c7f8661e">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="legacy system(s)"
+      value="pentana risk"/>
+  <properties
+      key="legacy system(s)"
+      value="board intelligence"/>
+  <properties
+      key="legacy system(s)"
+      value="corestream grc"/>
+  <properties
+      key="legacy system(s)"
+      value="meetings &amp; decisions"/>
+</archimate:ApplicationService>

@@ -1,0 +1,19 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AP -> ERP"
+    id="id-d15f69e9d8db4b7c98230ecc5c0ed952"
+    documentation="Invoicing, Fees, and Accounts Payable (AP)&#xA;&#x9;Direction: Aladdin ⟶ ERP AP&#xA;&#x9;Payload: Management fees, incentive/performance fees, custodian fees, and broker commissions calculated inside Aladdin or eFront. These flow into the ERP’s AP module to issue payments and trigger corporate expense recognition.&#xA;">
+  <properties
+      key="direction"
+      value="inbound/outbound"/>
+  <properties
+      key="legacy"
+      value="true/false"/>
+  <properties
+      key="data type"/>
+  <properties
+      key="channel"/>
+  <properties
+      key="trigger"
+      value="timed/on demand/internal business event"/>
+</archimate:ApplicationInterface>

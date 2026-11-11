@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="powerplatform"
+    id="id-0fbc2fad04ad4087b0e4daeb43105597"
+    documentation="contains all the components in the MS power platform package&#xA;the assumption is that they are all either in use or potentially in use&#xA;so they need to go in the target architecture"/>

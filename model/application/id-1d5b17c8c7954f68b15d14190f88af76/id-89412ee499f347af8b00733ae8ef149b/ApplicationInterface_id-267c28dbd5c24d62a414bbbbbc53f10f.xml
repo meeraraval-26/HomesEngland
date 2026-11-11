@@ -1,0 +1,19 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CoA Sync"
+    id="id-267c28dbd5c24d62a414bbbbbc53f10f"
+    documentation="Master Data &amp; Chart of Accounts Synchronization&#xA;&#x9;Direction: ERP ⟶ Aladdin (predominantly)&#xA;&#x9;Payload: The ERP remains the golden source for the global Chart of Accounts (CoA), legal entity hierarchies, fiscal calendars, and cost centers. These structures must be mirrored in Aladdin Accounting rules to avoid failed journal postings.&#xA;">
+  <properties
+      key="direction"
+      value="inbound/outbound"/>
+  <properties
+      key="legacy"
+      value="true/false"/>
+  <properties
+      key="data type"/>
+  <properties
+      key="channel"/>
+  <properties
+      key="trigger"
+      value="timed/on demand/internal business event"/>
+</archimate:ApplicationInterface>

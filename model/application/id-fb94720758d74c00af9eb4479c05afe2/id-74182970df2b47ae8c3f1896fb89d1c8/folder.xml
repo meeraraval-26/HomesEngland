@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="retained applications"
+    id="id-74182970df2b47ae8c3f1896fb89d1c8"
+    documentation="Thos applications that will npt be retired (likely) and are therefore part of the &#xA;target architecture.&#xA;Listed by product subfolder.&#xA;&#xA;This section must contain a brief description of what each app does &amp; any other&#xA;useful details not captured in other docs.&#xA;&#xA;All apps should be in our:&#xA;&#x9;1. application catalogue&#xA;&#x9;2. integration catalogue&#xA;&#x9;3. tech debt register&#xA;&#xA;where known we should include their end of service date&#xA;&#xA;if we know the likely successor we should include that and ensure that the successor is present in this model&#xA;we should also include a LeanIX link (or note that application doesn't exist in LeanIX)"/>

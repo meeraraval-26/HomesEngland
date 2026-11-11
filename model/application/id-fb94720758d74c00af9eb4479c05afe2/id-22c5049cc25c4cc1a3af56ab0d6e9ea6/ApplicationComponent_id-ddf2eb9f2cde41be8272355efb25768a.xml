@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Line of Business / Domain Application"
-    id="id-ddf2eb9f2cde41be8272355efb25768a"/>
+    id="id-ddf2eb9f2cde41be8272355efb25768a"
+    documentation="logical legacy application&#xA;for hangin architectures off"/>

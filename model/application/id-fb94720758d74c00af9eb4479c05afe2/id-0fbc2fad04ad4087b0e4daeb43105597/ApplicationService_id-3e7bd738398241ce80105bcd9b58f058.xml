@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="admin center"
+    id="id-3e7bd738398241ce80105bcd9b58f058"
+    documentation="centralized administrative console for environmment management:&#xA;&#x9;data loss prevention (DLP) policies &#xA;&#x9;application lifecycle management (ALM) pipelines&#xA;&#x9;license allocation&#xA;&#x9;governance compliance">
+  <properties
+      key="availability"
+      value="99.9% over 4 weeks"/>
+  <properties
+      key="CNI"
+      value="no"/>
+  <properties
+      key="data classification"
+      value="official/none"/>
+</archimate:ApplicationService>

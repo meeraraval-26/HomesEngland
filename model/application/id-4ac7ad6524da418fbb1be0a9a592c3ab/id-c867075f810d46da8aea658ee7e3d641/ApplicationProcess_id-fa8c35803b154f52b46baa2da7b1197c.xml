@@ -1,0 +1,5 @@
+<archimate:ApplicationProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HE Bank"
+    id="id-fa8c35803b154f52b46baa2da7b1197c"
+    documentation="a logical process to capture what the Bank does&#xA;&#xA;Economic capital, curve modelling and other advanced risk models will remain outside the platform &#xA;making data integration as important as platform functionality. &#xA;Fund Management's Transaction Assessment Models will continue to support pricing and underwriting, &#xA;Economic Capital, IFRS 9 stress testing, and PD/LGD modelling will remain the responsibility of the Risk Modelling team. "/>

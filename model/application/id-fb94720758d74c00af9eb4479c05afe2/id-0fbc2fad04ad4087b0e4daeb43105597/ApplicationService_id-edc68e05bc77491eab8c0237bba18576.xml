@@ -1,0 +1,15 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="power platform"
+    id="id-edc68e05bc77491eab8c0237bba18576"
+    documentation="https://learn.microsoft.com/en-us/power-platform/&#xA;&#xA;a portmanteau service offering a low code, lightweight development platform&#xA;this definition doesnt include any CoPilot stuff, as its been implemented seperately by HE&#xA;and so it has an architecture description of its own&#xA;&#xA;SLA is atandard microsoft (99.9%)&#xA;Internal facing pages are assumed to official sensistive&#xA;external pages are assumed to be unclassified&#xA;&#xA;acccess is regulated by EntraID for internal customer&#xA;unregulated for external customer">
+  <properties
+      key="availability"
+      value="99.9% over 4 weeks"/>
+  <properties
+      key="CNI"
+      value="no"/>
+  <properties
+      key="data classification"
+      value="official/none"/>
+</archimate:ApplicationService>

@@ -1,0 +1,27 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="03 - project planning &amp; milestones"
+    id="id-4e8ea0fc658f4085bfff97f01ca1e8d3">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="legacy system(s)"
+      value="MS Project"/>
+  <properties
+      key="legacy system(s)"
+      value="PCS (Project Control System)"/>
+  <properties
+      key="legacy system(s)"
+      value="MOP (Milestones and Outputs)"/>
+</archimate:ApplicationService>

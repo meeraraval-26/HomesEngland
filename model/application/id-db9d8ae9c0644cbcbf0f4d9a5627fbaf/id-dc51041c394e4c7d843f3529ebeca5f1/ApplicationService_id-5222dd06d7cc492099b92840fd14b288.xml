@@ -1,0 +1,24 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="11 - geospatial"
+    id="id-5222dd06d7cc492099b92840fd14b288">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="legacy system(s)"
+      value="ESRI"/>
+  <properties
+      key="legacy system(s)"
+      value="Signet"/>
+</archimate:ApplicationService>

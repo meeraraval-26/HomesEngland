@@ -1,0 +1,34 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05 - content management"
+    id="id-32ddb76eac4746ecb545e626effced88"
+    documentation="while we have some legacy apps, we have to work on the basis that this feeds&#xA;the various &quot;portals&quot; etc that HE contribute to....">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="legacy system(s)"
+      value="signet"/>
+  <properties
+      key="legacy system(s)"
+      value="iron mountain"/>
+  <properties
+      key="legacy system(s)"
+      value="knowbe4"/>
+  <properties
+      key="legacy system(s)"
+      value="accutrac"/>
+  <properties
+      key="legacy system(s)"
+      value="library management system"/>
+</archimate:ApplicationService>

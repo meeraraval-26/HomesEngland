@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bank to ERP"
+    id="id-89412ee499f347af8b00733ae8ef149b"
+    documentation="Full general ledger inside eFront; integration through its APIs and data layer, delivered by vendor professional services. "/>
