@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="finance"
+    name="financial operations "
     id="id-e9766eee235c413dbecdcbe95b6cac3f"
-    documentation="This capability manages financial planning, budgeting, accounting, reporting and cash management&#xA;">
+    documentation="This capability manages day-to-day transactional finance, cash flow, accounts payable, accounts receivable and banking arrangements to maintain operational liquidity and accurate financial execution.">
   <properties
       key="level"
       value="2"/>

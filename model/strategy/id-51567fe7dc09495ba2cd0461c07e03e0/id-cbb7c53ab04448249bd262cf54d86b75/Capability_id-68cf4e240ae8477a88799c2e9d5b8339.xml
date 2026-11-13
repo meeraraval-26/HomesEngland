@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="financial reporting"
+    id="id-68cf4e240ae8477a88799c2e9d5b8339"
+    documentation="This capability compiles, analyses and publishes statutory and management financial accounts, ensuring adherence to public accounting standards and regulatory requirements">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

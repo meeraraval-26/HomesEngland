@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="loan management"
+    name="debt "
     id="id-85f6aa1a88164061bd084fbe087a5093"
-    documentation="This capability oversees the end-to-end administration and servicing of credit facilities, ensuring compliance with loan agreements and repayment schedules. It monitors borrower performance and manages covenant tracking">
+    documentation="This capability structures and administers commercial loans and lending facilities to support housing and infrastructure delivery, ensuring robust credit risk management and capital recovery.">
   <properties
       key="level"
       value="2"/>
@@ -11,5 +11,5 @@
       value="business"/>
   <properties
       key="parent"
-      value="investment management"/>
+      value="finacial transactions &amp; guarantees"/>
 </archimate:Capability>

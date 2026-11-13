@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="legal"
+    id="id-73cfdb5c5d7f4b45a23c60a29c343b7f"
+    documentation="This capability provides strategic and operational legal counsel, oversees litigation, advises on statutory obligations and ensures compliance across commercial transactions, land agreements and regulatory mandates.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

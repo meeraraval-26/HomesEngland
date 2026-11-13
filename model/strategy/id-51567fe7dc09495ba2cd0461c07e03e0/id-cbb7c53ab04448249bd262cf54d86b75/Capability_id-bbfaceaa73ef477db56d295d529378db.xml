@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="internal communications"
+    id="id-bbfaceaa73ef477db56d295d529378db"
+    documentation="full name is Internal Communications and Colleague Engagement&#xA;This capability delivers engaging and transparent communications to employees, aligning staff with corporate priorities, facilitating feedback and fostering an informed, connected culture.&#xA;">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

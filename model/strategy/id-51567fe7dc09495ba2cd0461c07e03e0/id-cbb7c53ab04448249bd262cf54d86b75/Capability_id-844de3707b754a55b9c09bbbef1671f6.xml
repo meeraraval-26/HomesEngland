@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="corporate performance monitoring "
+    id="id-844de3707b754a55b9c09bbbef1671f6"
+    documentation="This capability tracks and reports on organisational performance against strategic targets, KPIs and business plans, providing insights to drive accountability and continuous operational improvement.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corp support "/>
+</archimate:Capability>

@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="operational coordination "
+    name="operational and delivery management "
     id="id-e2cdce46d2054243b3b5e44d23048af9"
-    documentation="This capability focuses on the effective management of operational processes and resources across Homes England to ensure achievement of organisation objectives">
+    documentation="This capability coordinates day-to-day operations and programme execution across Homes England, ensuring initiatives and contracts are delivered efficiently, and in alignment with strategic objectives.">
   <properties
       key="level"
       value="1"/>

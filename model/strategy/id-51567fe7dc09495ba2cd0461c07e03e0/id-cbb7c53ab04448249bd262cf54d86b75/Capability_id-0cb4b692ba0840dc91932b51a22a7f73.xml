@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="investment portfolio"
+    name="fund management "
     id="id-0cb4b692ba0840dc91932b51a22a7f73"
-    documentation="This capability monitors the collective allocation, performance and risk profile of Homes England’s overall investment holdings">
+    documentation="This capability oversees, allocates and monitors dedicated commercial investment funds, managing portfolio compositions, investor relations and fund performance to achieve targeted financial and strategic returns.">
   <properties
       key="level"
       value="2"/>
@@ -11,5 +11,5 @@
       value="business"/>
   <properties
       key="parent"
-      value="investment management"/>
+      value="finacial transactions &amp; guarantees"/>
 </archimate:Capability>

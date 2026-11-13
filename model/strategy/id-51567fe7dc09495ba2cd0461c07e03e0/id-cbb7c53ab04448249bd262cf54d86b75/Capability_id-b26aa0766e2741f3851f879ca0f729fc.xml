@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="investment operations "
+    id="id-b26aa0766e2741f3851f879ca0f729fc"
+    documentation="This capability delivers transaction execution, post-completion monitoring, covenant compliance and settlement activities to maintain operational control and accurate administration across all investment portfolios.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="finacial transactions &amp; guarantees"/>
+</archimate:Capability>

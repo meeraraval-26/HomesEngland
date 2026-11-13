@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="economics"
+    id="id-088b7123383942d989ec95b36c99e4ea"
+    documentation="This capability provides economic analysis, market intelligence and analytical insights to assess market conditions and support evidence-based strategic decision-making across the organisation.">
+  <properties
+      key="level"
+      value="2"/>
+  <properties
+      key="type"
+      value="business"/>
+  <properties
+      key="parent"
+      value="corporate strategy"/>
+</archimate:Capability>

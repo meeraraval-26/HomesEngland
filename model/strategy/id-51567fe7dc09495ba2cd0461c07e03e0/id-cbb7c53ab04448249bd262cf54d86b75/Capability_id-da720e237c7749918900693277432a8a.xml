@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="customer services &amp; products"
+    name="grants "
     id="id-da720e237c7749918900693277432a8a"
-    documentation="This capability manages the delivery, maintenance and support of customer-facing products and operational services. It ensures enquiries, transaction processing and ongoing service interactions are handled efficiently, maintaining high standards of accessibility and user satisfaction">
+    documentation="This capability coordinates the end-to-end administration of grant schemes, from application assessment and award through to disbursement and post-award monitoring">
   <properties
       key="level"
       value="2"/>
@@ -11,5 +11,5 @@
       value="business"/>
   <properties
       key="parent"
-      value="customer services &amp; products"/>
+      value="non financial transactions"/>
 </archimate:Capability>
