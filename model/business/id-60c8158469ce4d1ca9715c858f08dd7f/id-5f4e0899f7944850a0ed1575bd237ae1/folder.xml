@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="e2e pipeline"
+    id="id-5f4e0899f7944850a0ed1575bd237ae1"
+    documentation="contains the processes, functions and events for the HE end to end pipeline"/>

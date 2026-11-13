@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="site"
+    id="id-348d94bf08e547eabfc6e8e23ccb75e6"
+    documentation="projects may have one or many sites&#xA;and sites may be associated with more than one project"/>

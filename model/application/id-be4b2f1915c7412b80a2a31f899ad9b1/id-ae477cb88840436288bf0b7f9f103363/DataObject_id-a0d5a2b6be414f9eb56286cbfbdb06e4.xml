@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="project"
+    id="id-a0d5a2b6be414f9eb56286cbfbdb06e4"
+    documentation="the driving entity&#xA;may have a one to many relationship with itself&#xA;i.e. a project with other sub projects&#xA;may also have a one to many relationship with products and sites&#xA;each child will have exactly the same structure&#xA;capacity is the sum of both current and future projects"/>

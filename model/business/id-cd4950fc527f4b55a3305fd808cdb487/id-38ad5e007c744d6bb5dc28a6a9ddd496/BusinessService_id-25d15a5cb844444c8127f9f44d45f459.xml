@@ -1,0 +1,20 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="national programmes (non AHG)"
+    id="id-25d15a5cb844444c8127f9f44d45f459">
+  <properties
+      key="availability"/>
+  <properties
+      key="business critcality"
+      value="high/medium/low"/>
+  <properties
+      key="status"
+      value="legacy/to be"/>
+  <properties
+      key="target start date"/>
+  <properties
+      key="target end date"/>
+  <properties
+      key="decomms plan"
+      value="in place/TBC"/>
+</archimate:BusinessService>
