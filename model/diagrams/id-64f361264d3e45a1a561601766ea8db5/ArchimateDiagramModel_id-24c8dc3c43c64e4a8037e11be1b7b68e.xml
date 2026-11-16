@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="conceptual data architecture"
+    name="conceptual data architecture - integration"
     id="id-24c8dc3c43c64e4a8037e11be1b7b68e"
-    documentation="The integration layer treats enterprise data as a core strategic asset, establishing domain boundaries while eliminating point-to-point &quot;spaghetti&quot; coupling. Conceptual data entities passing through the integration layer are categorised into three primary functional streams">
+    documentation="The integration layer treats enterprise data as a core strategic asset, &#xA;establishing domain boundaries while eliminating point-to-point &quot;spaghetti&quot; coupling. &#xA;Conceptual data entities passing through the integration layer are &#xA;categorised into three primary functional streams">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c520a7ccd548441183677614e58d4742">

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="documents"
+    id="id-ed18d2a244b64e99a9c409dc1c2074af"
+    documentation="conceptually a single item&#xA;in practice will not presumably always be the same&#xA;but will include maps, photos, architecture drawings, project plans etc - mapping onto a single notion of &quot;content&quot;"/>

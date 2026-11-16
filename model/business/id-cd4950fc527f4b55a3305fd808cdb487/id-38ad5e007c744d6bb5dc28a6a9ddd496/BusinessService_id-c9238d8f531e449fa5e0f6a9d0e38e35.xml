@@ -1,0 +1,20 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="affordable housing grants"
+    id="id-c9238d8f531e449fa5e0f6a9d0e38e35">
+  <properties
+      key="availability"/>
+  <properties
+      key="business critcality"
+      value="high/medium/low"/>
+  <properties
+      key="status"
+      value="legacy/to be"/>
+  <properties
+      key="target start date"/>
+  <properties
+      key="target end date"/>
+  <properties
+      key="decomms plan"
+      value="in place/TBC"/>
+</archimate:BusinessService>

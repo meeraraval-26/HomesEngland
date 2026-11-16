@@ -1,0 +1,20 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="grants"
+    id="id-066a893795a5412f87cccf3d31332e87">
+  <properties
+      key="availability"/>
+  <properties
+      key="business critcality"
+      value="high/medium/low"/>
+  <properties
+      key="status"
+      value="legacy/to be"/>
+  <properties
+      key="target start date"/>
+  <properties
+      key="target end date"/>
+  <properties
+      key="decomms plan"
+      value="in place/TBC"/>
+</archimate:BusinessService>

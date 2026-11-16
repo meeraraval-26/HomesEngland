@@ -1,0 +1,20 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="advisory capacity and support"
+    id="id-5bbf5ce7c47b4cdc88e5c36507155274">
+  <properties
+      key="availability"/>
+  <properties
+      key="business critcality"
+      value="high/medium/low"/>
+  <properties
+      key="status"
+      value="legacy/to be"/>
+  <properties
+      key="target start date"/>
+  <properties
+      key="target end date"/>
+  <properties
+      key="decomms plan"
+      value="in place/TBC"/>
+</archimate:BusinessService>

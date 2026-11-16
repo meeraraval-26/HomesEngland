@@ -1,0 +1,5 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="business products"
+    id="id-38ad5e007c744d6bb5dc28a6a9ddd496"
+    documentation="HE's roush alignment to business services (roles are in &#xA;actors, roles &amp; organisations->roles->product departments)&#xA;&#xA;A business service is:&#xA;&#x9;a logical representation of a repeatable activity that has a specified outcome&#xA;&#x9;is self contained&#xA;&#x9;has a published customer SLA&#xA;&#x9;may be composed of other services&#xA;&#x9;is a black box to its customers"/>
