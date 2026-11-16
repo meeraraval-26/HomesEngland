@@ -1,0 +1,11 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Option 5: Different system for the pilot"
+    id="id-a5a02e43a6b846ad8746b5a871d5d21a">
+  <properties
+      key="Owner"
+      value="Bala Kondepudi"/>
+  <properties
+      key="status"
+      value="DEFERRED"/>
+</archimate:CourseOfAction>
