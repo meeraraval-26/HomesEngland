@@ -2,16 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="choreography"
     id="id-cc57211775c94d359333dd1801533190"
-    documentation="CONTEXT&#xA;&#xA;PROPOSAL&#xA;&#xA;">
+    documentation="CONTEXT&#xA;&#xA;The Integration Layer Pilot proves three patterns on Azure Integration Services. For Choreography, a change in a source system is published as an event to Azure Service Bus, and subscribing applications receive it without direct or point-to-point connections.&#xA;&#xA;Dynamics 365 (Dataverse) is the master for Organisation and Customer data, so it is the source for the choreography pilot. There are multiple sources for master copy of Building data. SAHP is one of them that provides data for service bus, pending confirmation of any other sources also need to be considered.&#xA;&#xA;The earlier design routed the data through the Enterprise Data Layer (EDL) and the Data Platform. The data architect meeting concluded that the EDL is a downstream reporting and analytics layer and not the operational master, and that the Data Platform is not yet mature enough to be a dependency. &#xA;&#xA;Further discussions are planned with Dynamics 365 team to enable change trigger/tracking events on the relavant tables of Organisation &amp; Customer which producer component on the service bus detects, maps and publishes them as topic for consumers.&#xA;&#xA;PROPOSAL&#xA;&#xA;Dynamics 365 to the integration layer to Service Bus. A publisher in the integration layer, hosted on AKS, detects changes in Dynamics 365, maps them to the canonical Organisation and Customer models, and publishes events to Service Bus topics. Subscribers receive events through their own subscriptions. The EDL is removed from the flow and may subscribe later like any other consumer.&#xA;&#xA;Building events from SAHP can follow the same pattern once the source is confirmed.&#xA;&#xA;Why this option&#xA;- Since Dynamics holds the master copy of Organisation and Customer data.&#xA;- Follows the HLD principles and avoids dependence on undecided Data Platform scope.&#xA;&#xA;Options not proposed&#xA;- Option 2, Dynamics to Data Platform (EDL) to Service Bus: makes the pilot depend on undecided Data Platform scope.&#xA;&#xA;Consequences&#xA;- The integration layer owns change detection and mapping, which adds build effort.&#xA;- Need read-only Dynamics access from the CRM team. &#xA;&#xA;Open points&#xA;- Confirm the Building data source (SAHP).&#xA;- Obtain the canonical Buildings and Customer models.&#xA;- Confirm Dynamics access for each environment.&#xA;&#xA;Status: Proposed">
   <properties
       key="status"
-      value="proposed/accepted/rejected/deprecated"/>
+      value="proposed"/>
   <properties
-      key="status date"/>
+      key="status date"
+      value="16/11/2026"/>
   <properties
       key="status record"
-      value="links to email, TDA mins etc"/>
+      value="https://teams.microsoft.com/l/chat/19%3Ameeting_N2E1ODljYzktOWU1My00YTk0LWJlMjAtNmQyYjBkMDJjNDkx%40thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D"/>
   <properties
       key="ADR"
-      value="link to the ADR doc"/>
+      value="ADR dynamic 365 for data and no data platform dependency for decisions"/>
 </archimate:Principle>
