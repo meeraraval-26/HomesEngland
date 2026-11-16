@@ -1,0 +1,11 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Option 1: Azure Relay to on-premise database"
+    id="id-649c79f2b11c48a4a7d32021b64010a0">
+  <properties
+      key="Owner"
+      value="Bala Kondepudi"/>
+  <properties
+      key="status"
+      value="REJECTED"/>
+</archimate:CourseOfAction>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Azure Relay"
+    id="id-070609a956d0494db974ff1baedd0158"
+    documentation="Azure Relay option rejected: The route needs a live, inbound-capable connection from Azure into a database that runs on Windows Server 2008 R2 behind an end-of-life firewall, and the database is linked to PCS, L&amp;C and TMS by database links. This adds risk to the legacy estate and relies on infrastructure that is out of support. Any change to the fragile EOL infra might impact the other applications like PCS that rely on the database.&#xA;"/>

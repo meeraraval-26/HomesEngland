@@ -1,0 +1,13 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Option 6: Database mirroring"
+    id="id-da5b0a7776df4747b0c665e5abeb0785">
+  <properties
+      key="Owner"
+      value="Bala Kondepudi"/>
+  <properties
+      key="status"
+      value="OPEN"/>
+  <properties
+      key="Reason"/>
+</archimate:CourseOfAction>

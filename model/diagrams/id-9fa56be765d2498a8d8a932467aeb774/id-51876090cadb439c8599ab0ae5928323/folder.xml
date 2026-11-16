@@ -1,0 +1,15 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integration Layer Pilot"
+    id="id-51876090cadb439c8599ab0ae5928323"
+    documentation="Architecture decision records (ADRs) for the HE Integration Layer Pilot. The pilot proves three integration patterns on Azure Integration Services: orchestration (a synchronous REST API published through API Management), choreography (message topics published to Azure Service Bus) and batch (scheduled bulk transfer using Azure Data Factory). This folder holds the ADR views for each pattern. Each records the context, the options considered, the decision and its consequences, and is aligned to the approved High Level Design (v4) and the pilot description.">
+  <properties
+      key="author"
+      value="Bala Kondepudi"/>
+  <properties
+      key="contributors"
+      value="HE Pilot Implementation team, HE Data Platform, HE Architecture Team"/>
+  <properties
+      key="Status"
+      value="IN PROGRESS"/>
+</archimate:Folder>
