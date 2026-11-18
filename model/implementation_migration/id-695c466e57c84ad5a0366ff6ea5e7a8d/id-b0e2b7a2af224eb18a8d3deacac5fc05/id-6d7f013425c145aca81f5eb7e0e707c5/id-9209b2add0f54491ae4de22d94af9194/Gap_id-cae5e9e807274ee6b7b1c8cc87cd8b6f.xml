@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOP -> EDP (DB copy)"
+    id="id-cae5e9e807274ee6b7b1c8cc87cd8b6f"
+    documentation="DESCRIPTION&#xA;Implementation blocker: currently blocked on infrastructure/DBA setup of the read-only Azure Oracle snapshot database,&#xA;The solution needs a databse copy&#xA;We are waiting for the read only copy of the MOP database to be provided.&#xA;&#xA;ACTION&#xA;HE to indicate progress."/>

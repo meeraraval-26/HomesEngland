@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="D365 -> AMB"
+    id="id-924c14a01a264847a297dcda81676062"
+    documentation="DESCRIPTION&#xA;&#xA;Unanswered CRM Team Engagement (Critical Blocker): &#xA;Emails to the Dynamics 365 team remain unanswered, blocking agreement on configuring asynchronous &#xA;outbound change triggers on source tables.&#xA;&#xA;ACTION&#xA;HE to respond to requests"/>
