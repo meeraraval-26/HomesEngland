@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="product"
     id="id-c71d450e11c54bbcb492171197c1fbd8"
-    documentation="the driver for the pipeline&#xA;the process is kicked off when a customern requests a product&#xA;"/>
+    documentation="the driver for the pipeline&#xA;the process is kicked off when a customern requests a product&#xA;&#xA;&#xA;products can be:&#xA;&#x9;&#x9;loans&#xA;&#x9;    investments&#xA;        grants&#xA;equity loans&#xA;guarantees"/>

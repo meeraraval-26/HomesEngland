@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="13 - collaboration"
-    id="id-a4f5670eef824b40b20147ffb2f64de0">
+    id="id-a4f5670eef824b40b20147ffb2f64de0"
+    documentation="m365">
   <properties
       key="availability"
       value="% over 4 weeks"/>

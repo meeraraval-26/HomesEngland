@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="09 - supplier management"
-    id="id-7506ed192cc84f6d891a62b3992568a7">
+    name="09 - supplier management DEPRECATED"
+    id="id-7506ed192cc84f6d891a62b3992568a7"
+    documentation="replaced by a procurement service and then subsumed by ERP">
   <properties
       key="availability"
       value="% over 4 weeks"/>

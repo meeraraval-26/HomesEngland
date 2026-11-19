@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="04 - HR"
-    id="id-2a6211b54257423583d24b0d7a525cb7">
+    name="04 - HR DEPRECATED"
+    id="id-2a6211b54257423583d24b0d7a525cb7"
+    documentation="now part of ERP">
   <properties
       key="availability"
       value="% over 4 weeks"/>

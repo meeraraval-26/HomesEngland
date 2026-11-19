@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="07 - land planning"
-    id="id-d6e5e2f19da74b52bb545d21b865a4bb">
+    id="id-d6e5e2f19da74b52bb545d21b865a4bb"
+    documentation="this assumes the functionality that used to be in 03 - project planning &amp; milestones DEPRECATED&#xA;manages:&#xA;&#x9;purchase&#xA;&#x9;development&#xA;&#x9;asset management&#xA;&#x9;asset depreciation&#xA;&#x9;sales&#xA;&#xA;can be done in conjunction with partner">
   <properties
       key="availability"
       value="% over 4 weeks"/>

@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="06 - budgeting &amp; forecasts"
-    id="id-4b61ccec964644b09ec4416833047665">
+    name="06 - budgeting &amp; forecasts DEPRECATED"
+    id="id-4b61ccec964644b09ec4416833047665"
+    documentation="now part of ERP">
   <properties
       key="availability"
       value="% over 4 weeks"/>

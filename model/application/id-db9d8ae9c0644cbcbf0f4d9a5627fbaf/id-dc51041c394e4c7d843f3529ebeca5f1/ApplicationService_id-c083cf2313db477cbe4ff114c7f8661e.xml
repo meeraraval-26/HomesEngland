@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="01 - case management"
-    id="id-c083cf2313db477cbe4ff114c7f8661e">
+    id="id-c083cf2313db477cbe4ff114c7f8661e"
+    documentation="the case is a project">
   <properties
       key="availability"
       value="% over 4 weeks"/>

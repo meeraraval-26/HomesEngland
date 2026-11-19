@@ -1,7 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="10 - payments"
-    id="id-d8639550b03c49288307de948c2060ab">
+    name="10 - payments DEPRECATED"
+    id="id-d8639550b03c49288307de948c2060ab"
+    documentation="part of ERP">
   <properties
       key="availability"
       value="% over 4 weeks"/>
