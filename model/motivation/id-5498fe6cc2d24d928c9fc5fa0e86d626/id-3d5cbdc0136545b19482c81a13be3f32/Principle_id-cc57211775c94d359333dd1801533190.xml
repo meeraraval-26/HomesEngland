@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="choreography"
     id="id-cc57211775c94d359333dd1801533190"
-    documentation="CONTEXT&#xA;&#xA;The Integration Layer Pilot proves three patterns on Azure Integration Services. I&#xA;For Choreography, a change in a source system is published as an event to Azure Service Bus, and subscribing applications receive it through independent subscriptions without point-to-point connectivity.&#xA;&#xA;Dynamics 365 (Dataverse) is the operational master for Organisation (account) and Customer (contact) data, and also holds the data for Building (invln_sites). It is the source of truth for the choreography pilot.&#xA;&#xA;PROPOSAL&#xA;&#xA;Publish changes from Dynamics 365 to Azure Service Bus through an integration layer REST API, hosted on Azure Kubernetes Service (AKS) behind API Management and secured with Entra ID OAuth 2.0.&#xA;&#xA;When an Organisation (account), Building (invln_sites) or Customer (contact) record is created, updated or deactivated in Dynamics 365, an asynchronous trigger calls the AKS publishing API. The API maps the record to the canonical model and publishes it as an event to a Service Bus topic. Subscribers receive events through their own subscriptions. &#xA;&#xA;">
+    documentation="CONTEXT&#xA; &#xA;The Integration Layer Pilot proves three patterns on Azure Integration Services and establishes repeatable standards for future delivery. For Choreography, a change in a source system is published as an event to Azure Service Bus, and subscribing applications receive it through independent subscriptions without point-to-point connectivity.&#xA; &#xA;Dynamics 365 (Dataverse) is the operational master for Organisation (account), Building (invln_sites) and Customer (contact) data, making it the source of truth for the choreography pilot.&#xA; &#xA;PROPOSAL&#xA; &#xA;Use a two-tier publishing approach on Azure Service Bus where three raw topics are mapped to three canonical topics by a transformation service within the integration layer. When an Organisation, Building or Customer record is changed in Dynamics 365, Dynamics 365 publishes a raw change event directly to its dedicated raw topic on Azure Service Bus.&#xA; &#xA;A single transformation service within the integration layer subscribes to all three raw topics, removes restricted sensitive fields, maps the payload into the agreed enterprise canonical model, attaches the required data governance and spatial metadata, and publishes the governed event to the corresponding canonical topic on Azure Service Bus.&#xA; &#xA;Downstream subscribing applications then consume these canonical events independently through their own topic subscriptions.">
   <properties
       key="status"
       value="proposed"/>
@@ -14,5 +14,8 @@
       value="https://teams.microsoft.com/l/chat/19%3Ameeting_N2E1ODljYzktOWU1My00YTk0LWJlMjAtNmQyYjBkMDJjNDkx%40thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D"/>
   <properties
       key="ADR"
-      value="ADR dynamic 365 for data and no data platform dependency for decisions"/>
+      value="Event-Driven Choreography via Two-Tier Service Bus Topics and Canonical Transformation"/>
+  <properties
+      key="version"
+      value="ADR-001"/>
 </archimate:Principle>
