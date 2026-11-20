@@ -14,5 +14,8 @@
       value="https://homesandcommunities.sharepoint.com.mcas.ms/sites/Architecture_TM/Shared%20Documents/Forms/AllItems.aspx?viewid=305af85b%2D742f%2D47e8%2D9b97%2D3a0d767efc70&amp;newTargetListUrl=%2Fsites%2FArchitecture%5FTM%2FShared%20Documents&amp;viewpath=%2Fsites%2FArchitecture%5FTM%2FShared%20Documents%2FForms%2FAllItems%2Easpx&amp;id=%2Fsites%2FArchitecture%5FTM%2FShared%20Documents%2FWork%20in%20Progress%2FHemel%20Popat%2FDeliverables%2FSOW2%20Deliverables%2F004%20Pilot%20description%2FMOP%20Database%20Dependency%20%E2%80%93%20Integration%20Pilot%20Meeting%20Notes%2Epdf&amp;parent=%2Fsites%2FArchitecture%5FTM%2FShared%20Documents%2FWork%20in%20Progress%2FHemel%20Popat%2FDeliverables%2FSOW2%20Deliverables%2F004%20Pilot%20description"/>
   <properties
       key="ADR"
-      value="ADR MOP database access route decision"/>
+      value="Synchronous Orchestration via Managed MOP API and Temporary Azure Database Snapshot"/>
+  <properties
+      key="version"
+      value="ADR-001"/>
 </archimate:Principle>

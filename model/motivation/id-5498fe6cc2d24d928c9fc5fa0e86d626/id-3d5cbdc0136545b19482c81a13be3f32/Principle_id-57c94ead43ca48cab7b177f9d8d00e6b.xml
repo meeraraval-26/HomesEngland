@@ -15,4 +15,7 @@
   <properties
       key="ADR"
       value="ADR: Reuse existing SAHP batch pipelines for the batch pattern, with no new build"/>
+  <properties
+      key="version"
+      value="ADR-001"/>
 </archimate:Principle>
