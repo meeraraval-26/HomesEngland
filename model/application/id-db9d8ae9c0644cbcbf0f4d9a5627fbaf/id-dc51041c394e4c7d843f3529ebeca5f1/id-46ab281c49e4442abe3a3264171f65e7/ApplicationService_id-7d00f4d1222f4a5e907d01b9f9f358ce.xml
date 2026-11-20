@@ -1,0 +1,25 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="09 - procurement"
+    id="id-7d00f4d1222f4a5e907d01b9f9f358ce"
+    documentation="currently done using pro-contract&#xA;this works and is liked by the business&#xA;no accelerator required&#xA;">
+  <properties
+      key="availability"
+      value="% over 4 weeks"/>
+  <properties
+      key="outcome"/>
+  <properties
+      key="SLA"
+      value="named SLA in the motivation folder - N/A for externally provided services"/>
+  <properties
+      key="CNI"
+      value="yes/no"/>
+  <properties
+      key="data classification"/>
+  <properties
+      key="legacy system(s)"
+      value="proactis"/>
+  <properties
+      key="legacy system(s)"
+      value="SAP Fieldglass"/>
+</archimate:ApplicationService>
