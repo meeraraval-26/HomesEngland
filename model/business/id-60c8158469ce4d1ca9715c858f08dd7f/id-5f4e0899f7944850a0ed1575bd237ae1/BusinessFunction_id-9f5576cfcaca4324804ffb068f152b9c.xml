@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="generate lead"
-    id="id-9f5576cfcaca4324804ffb068f152b9c"/>
+    id="id-9f5576cfcaca4324804ffb068f152b9c"
+    documentation="In a modern sales pipeline, a lead is an unqualified contact who has shown initial interest &#xA;(or whose contact details you have captured), whereas a prospect is a qualified lead who matches &#xA;your Ideal Customer Profile (ICP) and has entered active, two-way communication with your sales team.&#xA;&#xA;Put simply: every prospect starts as a lead, but not every lead becomes a prospect."/>
