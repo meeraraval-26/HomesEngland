@@ -2,20 +2,19 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is Bank in scope"
     id="id-5c7bfdd25fed47df8611165e17f6faba"
-    documentation="CONTEXT&#xA;&#xA;&#xA;PROPOSAL&#xA;">
+    documentation="CONTEXT&#xA;&#xA;ICP has outlined a programme of work to conduct a technical refresh of HE’s core landscape, with a number of products assigned to accelerator teams. Traditionally, National Housing Bank (NHB) has not been in scope for this work, but the Solirius project team have been tasked with conducting desktop research building on the product work already done by the NHB team, and with Deloitte’s undertaking extensive requirement gathering.&#xA;This ADR request formal confirmation that:&#xA;1.&#x9;replacing the NHB investment platform in now in scope for the project team;&#xA;2.&#x9;Interfaces between the investment platform and the other IT products in scope for ICP are part of project scope; or&#xA;3.&#x9;No work on the investment platform is in scope.&#xA;&#xA;PROPOSAL&#xA;&#xA;This ADR proposes that the NHB investment plan is brought into scope for the ICP delivery team, to include:&#xA;1.&#x9;Requirements gathering;&#xA;2.&#x9;Product short listing and selection; and&#xA;3.&#x9;Designing integration with other IT products in the landscape.&#xA;&#xA;">
   <properties
       key="status"
       value="proposed"/>
   <properties
       key="status date"
-      value="16/11/2026"/>
+      value="24/11/2026"/>
   <properties
-      key="status record"
-      value="https://teams.microsoft.com/l/chat/19%3Ameeting_N2E1ODljYzktOWU1My00YTk0LWJlMjAtNmQyYjBkMDJjNDkx%40thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D"/>
+      key="status record"/>
   <properties
       key="ADR"
-      value="ADR: Reuse existing SAHP batch pipelines for the batch pattern, with no new build"/>
+      value="https://docs.google.com/document/d/1Na-kyVNU7f3v_0iYlcb8gmFyz-m40LM6/edit?usp=drive_link&amp;ouid=110999272572498270762&amp;rtpof=true&amp;sd=true"/>
   <properties
       key="version"
-      value="ADR-001"/>
+      value="1"/>
 </archimate:Principle>
