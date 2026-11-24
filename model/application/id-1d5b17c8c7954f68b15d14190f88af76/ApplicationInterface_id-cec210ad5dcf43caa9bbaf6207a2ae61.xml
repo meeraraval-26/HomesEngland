@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="case mgmnt to ERP"
+    id="id-cec210ad5dcf43caa9bbaf6207a2ae61"
+    documentation="GAP - this will have HE folks but not their availability (rostering)&#xA;it also wont have externals and nothing else does either"/>

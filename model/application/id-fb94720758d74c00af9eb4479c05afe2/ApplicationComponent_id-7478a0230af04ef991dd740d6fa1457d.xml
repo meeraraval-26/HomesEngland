@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="assessment engine"
+    id="id-7478a0230af04ef991dd740d6fa1457d"
+    documentation="the E2E pipeline has multiple assessments&#xA;currently these are all silos&#xA;we need to propose an AI driven assessment engine that&#xA;1. knows which assessments by product&#xA;2."/>

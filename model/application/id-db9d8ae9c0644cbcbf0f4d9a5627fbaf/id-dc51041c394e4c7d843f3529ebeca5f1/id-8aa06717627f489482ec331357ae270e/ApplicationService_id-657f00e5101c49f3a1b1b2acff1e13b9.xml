@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="04 - ERP"
     id="id-657f00e5101c49f3a1b1b2acff1e13b9"
-    documentation="likely to be SAP as per MHCLG direction of travel&#xA;MHCLG are migrating to a new SAP service called Unity in c. 3 years&#xA;NB much of the core financials functionality has been hived off to bespoke LOB systems">
+    documentation="likely to be SAP as per MHCLG direction of travel&#xA;MHCLG are migrating to a new SAP service called Unity in c. 3 years&#xA;NB much of the core financials functionality has been hived off to bespoke LOB systems&#xA;&#xA;finance bit of ERP as relations shown,&#xA;HR bitt of ERP across the board">
   <properties
       key="availability"
       value="% over 4 weeks"/>
