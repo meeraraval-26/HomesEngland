@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bank to CRM"
+    id="id-09245b48773f4295839a72d597d38326"
+    documentation="bank use dynamics as their CRM&#xA;assuming that a simgle CRM instance is delivered&#xA;there is an assumed integration between the two"/>

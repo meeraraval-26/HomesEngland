@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="01 - case management"
     id="id-c083cf2313db477cbe4ff114c7f8661e"
-    documentation="the case is a project&#xA;&#xA;this top include capacity and demand management&#xA;demand is the projects coming down the line&#xA;capacity is a mixture of HE staff and external contractors&#xA;">
+    documentation="the case is a project&#xA;&#xA;this top include capacity and demand management&#xA;demand is the projects coming down the line&#xA;capacity is a mixture of HE staff and external contractors&#xA;&#xA;the assumption is that this will be Dynamics (plusd however many additions are required)&#xA;&#xA;">
   <properties
       key="availability"
       value="% over 4 weeks"/>
